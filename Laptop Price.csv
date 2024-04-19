@@ -1,0 +1,1304 @@
+,TypeName,Inches,Ram,OpSys,Weight,Price,Screen Height,Screen Width,Cpu GHz,Cpu Name,Memory Type,Memory Size,CPU Company,Has GPU
+0,Ultrabook,13.3,8.0,macOS,1.37,71378.6832,1600,2560,2.3,Intel,SSD,128,Intel,0
+1,Ultrabook,13.3,8.0,macOS,1.34,47895.5232,900,1440,1.8,Intel,Flash Storage,128,Intel,0
+2,Notebook,15.6,8.0,No OS,1.86,30636.0,1080,1920,2.5,Intel,SSD,256,Intel,0
+3,Ultrabook,15.4,16.0,macOS,1.83,135195.33599999998,1800,2880,2.7,Intel,SSD,512,Intel,1
+4,Ultrabook,13.3,8.0,macOS,1.37,96095.808,1600,2560,3.1,Intel,SSD,256,Intel,0
+5,Notebook,15.6,4.0,Windows 10,2.1,21312.0,768,1366,3.0,AMD,HDD,500,AMD,1
+6,Ultrabook,15.4,16.0,Mac OS X,2.04,114017.6016,1800,2880,2.2,Intel,Flash Storage,256,Intel,0
+7,Ultrabook,13.3,8.0,macOS,1.34,61735.536,900,1440,1.8,Intel,Flash Storage,256,Intel,0
+8,Ultrabook,14.0,16.0,Windows 10,1.3,79653.59999999999,1080,1920,1.8,Intel,SSD,512,Intel,1
+9,Ultrabook,14.0,8.0,Windows 10,1.6,41025.6,1080,1920,1.6,Intel,SSD,256,Intel,0
+10,Notebook,15.6,4.0,No OS,1.86,20986.992,768,1366,2.5,Intel,HDD,500,Intel,0
+11,Notebook,15.6,4.0,No OS,1.86,18381.0672,1080,1920,2.0,Intel,HDD,500,Intel,0
+12,Ultrabook,15.4,16.0,macOS,1.83,130001.6016,1800,2880,2.8,Intel,SSD,256,Intel,1
+13,Notebook,15.6,4.0,Windows 10,2.2,26581.392,1080,1920,2.0,Intel,SSD,256,Intel,1
+14,Ultrabook,12.0,8.0,macOS,0.92,67260.672,1440,2304,1.2,Intel,SSD,256,Intel,0
+15,Ultrabook,13.3,8.0,macOS,1.37,80908.344,1600,2560,2.3,Intel,SSD,256,Intel,0
+16,Notebook,15.6,8.0,Windows 10,2.2,39693.6,1080,1920,2.7,Intel,SSD,256,Intel,1
+17,Ultrabook,15.4,16.0,macOS,1.83,152274.24,1800,2880,2.9,Intel,SSD,512,Intel,1
+18,Notebook,15.6,8.0,No OS,2.2,26586.72,1080,1920,2.4,Intel,HDD,1024,Intel,1
+19,Ultrabook,13.3,8.0,Windows 10,1.22,52161.12,1080,1920,1.6,Intel,SSD,128,Intel,0
+20,Netbook,11.6,2.0,Windows 10,0.98,10224.432,768,1366,1.44,Intel,Flash Storage,32,Intel,0
+21,Gaming,15.6,8.0,Windows 10,2.5,53226.72,1080,1920,2.5,Intel,Both,1152,Intel,1
+22,Notebook,15.6,4.0,No OS,1.86,13746.24,768,1366,1.5,AMD,HDD,500,AMD,1
+23,2 in 1 Convertible,13.3,8.0,Windows 10,1.62,43636.32,1080,1920,1.6,Intel,SSD,256,Intel,0
+24,Ultrabook,15.6,8.0,Windows 10,1.91,35111.52,1080,1920,1.8,Intel,SSD,256,Intel,0
+25,Notebook,15.6,4.0,Windows 10,2.3,22305.1392,768,1366,2.0,Intel,HDD,1024,Intel,0
+26,Ultrabook,13.3,8.0,Mac OS X,1.35,58554.72,900,1440,1.6,Intel,Flash Storage,128,Intel,0
+27,Notebook,15.6,8.0,Windows 10,2.2,42624.0,1080,1920,1.6,Intel,SSD,256,Intel,1
+28,Ultrabook,15.6,8.0,Windows 10,1.88,69157.44,1080,1920,1.9,Intel,SSD,512,Intel,0
+29,Notebook,17.3,8.0,Windows 10,2.5,47738.88,1080,1920,1.6,Intel,HDD,1024,Intel,1
+30,Notebook,15.6,4.0,Windows 10,1.89,13053.0672,1080,1920,1.44,Intel,Flash Storage,64,Intel,0
+31,Notebook,14.0,2.0,Windows 10,1.65,10602.72,768,1366,1.5,AMD,Flash Storage,32,AMD,1
+32,Notebook,17.3,4.0,Windows 10,2.71,23389.92,1080,1920,2.5,AMD,HDD,500,AMD,1
+33,Ultrabook,13.3,16.0,Windows 10,1.2,99580.32,1800,3200,1.8,Intel,SSD,512,Intel,0
+34,Ultrabook,13.3,8.0,Mac OS X,1.35,53173.44,900,1440,1.6,Intel,Flash Storage,256,Intel,0
+35,Notebook,14.0,4.0,Windows 10,1.44,13266.72,768,1366,1.1,Intel,Flash Storage,64,Intel,0
+36,Notebook,15.6,4.0,Linux,2.1,19553.76,768,1366,2.7,Intel,HDD,1024,Intel,0
+37,Notebook,17.3,8.0,Windows 10,2.8,52161.12,1080,1920,1.6,Intel,Both,1152,Intel,1
+38,Notebook,15.6,4.0,Windows 10,1.86,26037.4032,768,1366,2.5,Intel,HDD,1024,Intel,0
+39,Notebook,15.6,8.0,Windows 10,2.1,46833.12,1080,1920,1.6,Intel,SSD,256,Intel,1
+40,Notebook,15.6,4.0,Linux,2.0,20725.92,1080,1920,2.0,Intel,HDD,1024,Intel,0
+41,Gaming,15.6,16.0,Windows 10,2.65,79866.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+42,Notebook,15.6,8.0,Linux,2.3,27864.9072,768,1366,2.5,Intel,HDD,1024,Intel,1
+43,Notebook,15.6,4.0,Windows 10,2.2,36336.96,1080,1920,1.6,Intel,SSD,256,Intel,0
+44,2 in 1 Convertible,17.3,12.0,Windows 10,2.77,53226.72,1080,1920,1.6,Intel,HDD,1024,Intel,1
+45,Ultrabook,13.3,8.0,macOS,1.37,75604.31999999999,1600,2560,2.0,Intel,SSD,256,Intel,0
+46,Notebook,15.6,4.0,No OS,2.2,19660.32,768,1366,2.0,Intel,SSD,128,Intel,0
+47,Gaming,17.3,8.0,Windows 10,3.2,69210.72,1080,1920,3.0,AMD,Both,1280,AMD,1
+48,Notebook,15.6,4.0,Windows 10,2.3,34045.92,1080,1920,2.5,Intel,SSD,256,Intel,1
+49,Notebook,17.3,4.0,Windows 10,2.8,24828.48,768,1366,1.1,Intel,HDD,1024,Intel,1
+50,2 in 1 Convertible,10.1,4.0,Android,0.69,16996.32,1200,1920,1.44,Intel,Flash Storage,64,Intel,0
+51,Notebook,15.6,8.0,Windows 10,2.2,44808.48,1080,1920,1.8,Intel,SSD,256,Intel,1
+52,Notebook,15.6,4.0,Windows 10,1.86,21231.5472,1080,1920,2.5,AMD,SSD,256,AMD,1
+53,Notebook,13.3,8.0,Windows 10,1.49,58767.84,1080,1920,1.8,Intel,SSD,512,Intel,0
+54,Notebook,15.6,4.0,Windows 10,2.4,20459.52,768,1366,2.4,Intel,HDD,1024,Intel,0
+55,Notebook,15.6,8.0,Windows 10,2.13,40908.384,1080,1920,1.8,Intel,SSD,256,Intel,1
+56,Notebook,15.6,4.0,Windows 10,1.91,23389.92,1080,1920,2.0,Intel,SSD,128,Intel,0
+57,Notebook,15.6,4.0,Windows 10,2.0,31232.203200000004,768,1366,2.5,Intel,SSD,256,Intel,0
+58,Gaming,17.3,16.0,Windows 10,2.43,130482.72,1080,1920,2.8,Intel,Both,2304,Intel,1
+59,Notebook,15.6,4.0,Linux,2.0,22111.2,1080,1920,2.0,Intel,SSD,256,Intel,0
+60,Notebook,17.3,16.0,Windows 10,2.8,69210.72,1080,1920,1.8,Intel,Both,2304,Intel,1
+61,Ultrabook,14.0,8.0,Windows 10,1.7,46833.12,1080,1920,1.6,Intel,SSD,256,Intel,0
+62,Notebook,14.0,8.0,No OS,1.7,31914.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+63,Notebook,14.0,8.0,Windows 10,1.4,50136.48,1080,1920,1.6,Intel,SSD,256,Intel,0
+64,Notebook,15.6,8.0,Windows 10,1.86,36763.2,1080,1920,2.5,Intel,SSD,256,Intel,0
+65,Ultrabook,15.6,16.0,Windows 10,1.8,105654.24,1080,1920,2.8,Intel,SSD,512,Intel,1
+66,Notebook,15.6,4.0,Windows 10,1.86,23373.4032,768,1366,2.0,Intel,HDD,500,Intel,1
+67,Notebook,14.0,4.0,Windows 10,1.44,12201.12,768,1366,1.6,Intel,SSD,32,Intel,0
+68,Notebook,15.6,4.0,Windows 10,1.9,29250.72,1080,1920,2.5,Intel,HDD,1024,Intel,0
+69,Gaming,17.3,12.0,Linux,3.0,50562.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+70,Ultrabook,13.5,4.0,Windows 10 S,1.252,58021.92,1504,2256,2.5,Intel,SSD,128,Intel,0
+71,Ultrabook,13.3,8.0,Windows 10,1.4,50882.4,1080,1920,1.8,Intel,SSD,256,Intel,1
+72,Notebook,15.6,8.0,Windows 10,2.2,46353.6,1080,1920,1.8,Intel,SSD,256,Intel,1
+73,Gaming,17.3,8.0,Windows 10,2.7,58341.6,1080,1920,2.5,Intel,Both,1152,Intel,1
+74,Notebook,14.0,8.0,Windows 10,2.1,20725.92,768,1366,2.0,Intel,HDD,1024,Intel,0
+75,Gaming,15.6,8.0,Windows 10,2.2,50562.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+76,Notebook,15.6,8.0,No OS,2.2,27652.32,1080,1920,2.5,Intel,HDD,2048,Intel,0
+77,Notebook,15.6,8.0,Windows 10,2.02,45554.4,1080,1920,1.8,Intel,Both,1152,Intel,0
+78,Notebook,15.6,4.0,Windows 10,2.2,28238.4,1080,1920,2.7,Intel,HDD,1024,Intel,1
+79,Notebook,17.3,8.0,Windows 10,2.5,52054.56,1080,1920,1.6,Intel,Both,1152,Intel,1
+80,Ultrabook,15.6,8.0,Windows 10,1.88,58403.4048,1080,1920,1.6,Intel,SSD,256,Intel,0
+81,Ultrabook,12.0,8.0,macOS,0.92,80452.8,1440,2304,1.3,Intel,SSD,512,Intel,0
+82,Notebook,14.0,8.0,Windows 10,1.63,45820.8,1080,1920,1.6,Intel,SSD,256,Intel,0
+83,Notebook,15.6,4.0,Windows 10,2.2,21258.72,1080,1920,2.5,AMD,SSD,128,AMD,1
+84,Notebook,15.6,4.0,Windows 10,2.1,21045.6,768,1366,3.0,AMD,HDD,1024,AMD,1
+85,Gaming,15.6,16.0,Windows 10,2.65,71874.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+86,Ultrabook,15.6,8.0,Windows 10,1.83,37242.72,1080,1920,1.8,Intel,SSD,256,Intel,1
+87,Notebook,15.6,8.0,Windows 10,1.96,31914.1872,1080,1920,2.5,Intel,SSD,256,Intel,0
+88,Gaming,15.6,16.0,Windows 10,2.2,77202.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+89,Ultrabook,13.3,8.0,Windows 10,1.21,87858.72,1080,1920,1.8,Intel,SSD,256,Intel,0
+90,Gaming,15.6,8.0,Windows 10,2.45,37242.72,1080,1920,3.0,AMD,HDD,1024,AMD,1
+91,Notebook,15.6,8.0,Windows 10,2.2,36709.92,1080,1920,1.8,Intel,HDD,1024,Intel,1
+92,Notebook,13.3,16.0,Windows 10,1.49,63776.16,1080,1920,1.8,Intel,SSD,512,Intel,0
+93,Gaming,15.6,8.0,Windows 10,2.65,63669.6,1080,1920,2.5,Intel,SSD,256,Intel,1
+94,Ultrabook,14.0,8.0,Windows 10,1.25,55890.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+95,2 in 1 Convertible,13.3,8.0,Windows 10,1.5,45128.16,1080,1920,1.6,Intel,SSD,256,Intel,0
+96,Notebook,15.6,8.0,Linux,2.2,31962.672,1080,1920,2.7,Intel,HDD,1024,Intel,1
+97,Notebook,15.6,4.0,Linux,2.2,25840.8,1080,1920,2.0,Intel,SSD,256,Intel,1
+98,Notebook,15.6,6.0,Windows 10,2.0,30742.56,1080,1920,2.4,Intel,SSD,256,Intel,1
+99,Gaming,15.6,12.0,Windows 10,2.62,66546.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+100,Notebook,15.6,8.0,Windows 10,1.91,38308.32,1080,1920,2.7,Intel,SSD,256,Intel,1
+101,Notebook,15.6,4.0,Windows 10,2.1,18594.72,1080,1920,1.5,AMD,HDD,500,AMD,1
+102,Notebook,15.6,8.0,Linux,2.2,34472.16,1080,1920,1.6,Intel,HDD,1024,Intel,1
+103,Ultrabook,13.3,8.0,Windows 10,1.38,59620.32,1080,1920,2.7,Intel,SSD,256,Intel,1
+104,Ultrabook,13.5,8.0,Windows 10 S,1.252,71395.2,1504,2256,2.5,Intel,SSD,256,Intel,0
+105,Notebook,14.0,6.0,Windows 10,1.58,35111.52,1080,1920,2.5,Intel,SSD,256,Intel,1
+106,Notebook,15.6,4.0,Windows 10,1.85,22105.872,1080,1920,2.0,Intel,HDD,1024,Intel,0
+107,Ultrabook,14.0,8.0,Windows 10,1.3,63563.04,1080,1920,2.7,Intel,SSD,256,Intel,1
+108,Gaming,15.6,16.0,Windows 10,2.2,69210.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+109,Notebook,14.0,8.0,Windows 10,1.58,78854.4,1080,1920,2.7,Intel,SSD,256,Intel,0
+110,Ultrabook,15.6,16.0,Windows 10,1.5,67239.36,1080,1920,1.8,Intel,Both,1280,Intel,1
+111,Ultrabook,13.3,8.0,Windows 10,1.23,73473.12,1800,3200,2.4,Intel,SSD,256,Intel,0
+112,2 in 1 Convertible,13.3,8.0,Windows 10,1.37,74538.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+113,Notebook,14.0,4.0,Windows 10,1.63,38468.16,768,1366,1.6,Intel,HDD,500,Intel,0
+114,Ultrabook,13.3,8.0,Windows 10,1.21,86793.12,1080,1920,1.6,Intel,SSD,256,Intel,0
+115,2 in 1 Convertible,13.3,8.0,Windows 10,1.26,74538.1872,1080,1920,1.6,Intel,SSD,256,Intel,0
+116,Notebook,14.0,8.0,Windows 10,1.63,57755.52,1080,1920,1.8,Intel,SSD,512,Intel,0
+117,Notebook,15.6,8.0,Windows 10,2.16,60223.98239999999,1080,1920,1.8,Intel,Both,1280,Intel,1
+118,Notebook,17.3,4.0,Windows 10,2.0,30049.92,1080,1920,2.0,Intel,HDD,1024,Intel,1
+119,Notebook,15.6,8.0,Windows 10,1.7,59567.04,1080,1920,1.8,Intel,SSD,256,Intel,1
+120,Notebook,15.6,6.0,Windows 10,2.1,25521.12,1080,1920,2.4,Intel,HDD,1024,Intel,0
+121,Gaming,15.6,16.0,Windows 10,1.8,119427.12,1080,1920,2.8,Intel,Both,2304,Intel,1
+122,Notebook,15.6,8.0,No OS,2.2,33513.119999999995,1080,1920,2.5,Intel,SSD,256,Intel,1
+123,Notebook,17.3,16.0,Windows 10,2.5,67718.88,1080,1920,1.8,Intel,SSD,512,Intel,1
+124,Notebook,15.6,4.0,Windows 10,2.1,24029.28,768,1366,3.0,AMD,SSD,256,AMD,1
+125,Notebook,15.6,4.0,No OS,1.86,13799.52,768,1366,1.6,Intel,HDD,500,Intel,0
+126,Notebook,14.0,8.0,Windows 10,1.63,43263.36,1080,1920,1.6,Intel,HDD,1024,Intel,0
+127,Notebook,14.0,4.0,Windows 10 S,1.65,14811.3072,768,1366,1.5,AMD,SSD,64,AMD,1
+128,Notebook,17.3,16.0,Windows 10,2.8,74378.87999999999,1080,1920,1.8,Intel,Both,2304,Intel,1
+129,Notebook,17.3,8.0,Windows 10,2.5,49443.84,1080,1920,1.6,Intel,SSD,256,Intel,0
+130,Notebook,15.6,8.0,Windows 10,2.36,34045.3872,768,1366,2.5,Intel,HDD,1024,Intel,1
+131,Notebook,15.6,4.0,Windows 10,2.2,23922.72,1080,1920,2.0,Intel,HDD,1024,Intel,1
+132,Ultrabook,14.0,8.0,Windows 10,1.6,47099.52,1080,1920,1.8,Intel,SSD,256,Intel,0
+133,Notebook,15.6,4.0,Windows 10,2.2,30476.16,1080,1920,2.7,Intel,SSD,256,Intel,1
+134,Notebook,15.6,8.0,Windows 10,2.05,31861.44,768,1366,2.7,Intel,HDD,1024,Intel,0
+135,Notebook,14.0,8.0,Windows 10,1.63,52640.64,1080,1920,1.8,Intel,SSD,256,Intel,0
+136,Notebook,15.6,4.0,No OS,1.9,13445.7408,768,1366,1.1,Intel,HDD,1024,Intel,0
+137,Gaming,17.3,8.0,Windows 10,3.0,49976.64,1080,1920,2.5,Intel,Both,1152,Intel,1
+138,Notebook,15.6,4.0,No OS,2.2,26586.72,1080,1920,2.5,Intel,HDD,1024,Intel,1
+139,Notebook,13.3,4.0,Windows 10,1.32,37242.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+140,Notebook,17.3,4.0,Windows 10,3.0,34898.4,1080,1920,2.7,Intel,HDD,1024,Intel,1
+141,Notebook,14.0,8.0,Windows 10,1.75,59461.5456,1080,1920,1.6,Intel,SSD,256,Intel,1
+142,Gaming,15.6,8.0,No OS,2.4,46300.32,1080,1920,2.8,Intel,SSD,256,Intel,1
+143,Notebook,15.6,4.0,Windows 10,2.1,32074.56,768,1366,2.3,Intel,HDD,500,Intel,0
+144,Notebook,15.6,4.0,Windows 10,1.86,19660.32,768,1366,2.5,AMD,SSD,256,AMD,1
+145,Ultrabook,14.0,8.0,Windows 10,1.25,58554.72,1080,1920,1.8,Intel,SSD,256,Intel,0
+146,Ultrabook,12.5,8.0,Windows 10,0.97,107305.92,2160,3840,1.2,Intel,SSD,512,Intel,0
+147,Notebook,15.6,4.0,Windows 10,2.0,18328.32,1080,1920,1.1,Intel,HDD,1024,Intel,0
+148,Gaming,17.3,16.0,Windows 10,2.9,108105.12,1080,1920,2.8,Intel,Both,1280,Intel,1
+149,Notebook,15.6,4.0,Windows 10,2.1,23816.16,768,1366,2.0,Intel,HDD,1024,Intel,0
+150,Gaming,15.6,16.0,Windows 10,2.56,66560.5728,1080,1920,2.8,Intel,SSD,512,Intel,1
+151,Gaming,15.6,8.0,Windows 10,2.62,47898.72,1080,1920,2.8,Intel,Hybrid,1024,Intel,1
+152,Notebook,15.6,4.0,Windows 10,1.9,26533.44,768,1366,2.5,Intel,SSD,128,Intel,0
+153,Gaming,17.3,16.0,Windows 10,2.8,100699.2,1080,1920,2.8,Intel,Both,1280,Intel,1
+154,Ultrabook,14.0,4.0,Windows 10,1.48,57648.96,1080,1920,2.7,Intel,SSD,256,Intel,0
+155,Notebook,15.6,6.0,Windows 10,1.91,32980.32,1080,1920,1.6,Intel,SSD,256,Intel,1
+156,2 in 1 Convertible,14.0,4.0,Windows 10,1.74,33513.119999999995,1080,1920,2.4,Intel,SSD,256,Intel,0
+157,2 in 1 Convertible,13.3,8.0,Windows 10,1.1,70063.2,1080,1920,1.6,Intel,SSD,256,Intel,0
+158,2 in 1 Convertible,15.6,8.0,Windows 10,1.56,55890.72,1080,1920,1.8,Intel,SSD,256,Intel,0
+159,Notebook,15.6,4.0,Windows 10,2.1,23816.16,768,1366,2.2,Intel,HDD,500,Intel,0
+160,Notebook,15.6,4.0,Windows 10,2.03,21471.84,768,1366,3.0,AMD,HDD,1024,AMD,1
+161,Notebook,17.3,4.0,Windows 10,3.0,42890.4,1080,1920,1.6,Intel,SSD,256,Intel,1
+162,Notebook,15.6,8.0,Windows 10,2.13,38787.84,1080,1920,1.6,Intel,SSD,256,Intel,1
+163,Gaming,15.6,16.0,Windows 10,2.5,57489.12,1080,1920,2.8,Intel,SSD,256,Intel,1
+164,Notebook,15.6,4.0,Windows 10,2.1,18541.44,768,1366,1.1,Intel,HDD,1024,Intel,0
+165,Gaming,15.6,16.0,Windows 10,2.4,95850.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+166,Notebook,15.6,4.0,Windows 10,2.1,19367.8128,768,1366,1.1,Intel,HDD,1024,Intel,0
+167,Gaming,15.6,8.0,Windows 10,2.56,56502.9072,1080,1920,2.8,Intel,Both,1152,Intel,1
+168,Notebook,17.3,8.0,Windows 10,3.0,45501.12,1080,1920,1.6,Intel,SSD,256,Intel,1
+169,Notebook,13.3,4.0,Windows 10,1.49,40173.12,1080,1920,1.6,Intel,HDD,500,Intel,0
+170,Ultrabook,13.0,8.0,Windows 10,1.05,71874.72,1440,2160,2.5,Intel,SSD,256,Intel,0
+171,Notebook,17.3,6.0,Windows 10,2.71,37242.72,1080,1920,2.5,Intel,HDD,2048,Intel,1
+172,Notebook,15.6,4.0,No OS,2.2,16463.52,768,1366,2.9,AMD,HDD,500,AMD,1
+173,Notebook,15.6,4.0,Windows 10,2.0,26053.92,768,1366,2.4,Intel,HDD,500,Intel,0
+174,Notebook,17.3,8.0,Windows 10,2.5,49177.44,1080,1920,1.6,Intel,SSD,256,Intel,1
+175,Notebook,15.6,8.0,Windows 10,2.3,24455.52,768,1366,2.4,Intel,HDD,1024,Intel,0
+176,Notebook,15.6,4.0,Windows 10,2.1,23922.72,768,1366,2.0,Intel,SSD,128,Intel,0
+177,Gaming,18.4,32.0,Windows 10,4.4,149130.72,1080,1920,2.9,Intel,Both,1536,Intel,1
+178,Notebook,15.6,8.0,Windows 10,1.9,43316.64,1080,1920,2.5,Intel,Both,1152,Intel,1
+179,2 in 1 Convertible,13.3,8.0,Windows 10,1.29,79866.72,2160,3840,1.6,Intel,SSD,256,Intel,0
+180,Notebook,15.6,16.0,Linux,2.02,55890.72,1080,1920,1.8,Intel,Both,2304,Intel,1
+181,Ultrabook,13.3,8.0,Windows 10,1.23,74538.72,1080,1920,1.6,Intel,SSD,256,Intel,0
+182,2 in 1 Convertible,13.9,16.0,Windows 10,1.4,98514.72,2160,3840,1.8,Intel,SSD,512,Intel,0
+183,Notebook,15.6,8.0,Windows 10,2.0,42251.04,768,1366,2.5,Intel,SSD,128,Intel,0
+184,Notebook,15.6,8.0,No OS,1.95,63882.72,1080,1920,1.6,Intel,SSD,256,Intel,1
+185,Notebook,17.3,16.0,Windows 10,2.77,82530.72,1080,1920,1.8,Intel,SSD,512,Intel,1
+186,Notebook,15.6,16.0,Windows 10,2.06,127712.16,2160,3840,2.8,Intel,SSD,512,Intel,1
+187,Gaming,15.6,8.0,No OS,2.4,41505.12,1080,1920,2.5,Intel,SSD,256,Intel,1
+188,Ultrabook,13.3,8.0,Windows 10,1.12,52693.92,1080,1920,1.2,Intel,SSD,256,Intel,0
+189,Notebook,17.3,8.0,Windows 10,2.8,57808.8,1080,1920,1.8,Intel,Both,1152,Intel,1
+190,2 in 1 Convertible,14.0,16.0,Windows 10,1.42,150462.72,1440,2560,2.7,Intel,SSD,1024,Intel,0
+191,Notebook,14.0,4.0,Windows 10,1.3,13852.8,1080,1920,1.1,Intel,Flash Storage,32,Intel,0
+192,Ultrabook,13.3,8.0,No OS,1.3,53274.67199999999,1080,1920,2.5,Intel,SSD,256,Intel,1
+193,Notebook,17.3,8.0,No OS,2.8,37189.44,900,1600,1.6,Intel,SSD,256,Intel,1
+194,2 in 1 Convertible,13.3,8.0,Windows 10,1.62,44701.92,1080,1920,1.8,Intel,HDD,1024,Intel,0
+195,Notebook,17.3,8.0,Windows 10,2.5,48697.92,1080,1920,1.6,Intel,HDD,1024,Intel,1
+196,Gaming,17.3,32.0,Windows 10,3.49,324954.72,2160,3840,2.9,Intel,SSD,1024,Intel,1
+197,Notebook,13.3,8.0,Windows 10,1.49,51095.52,1080,1920,1.6,Intel,SSD,512,Intel,0
+198,Gaming,17.3,16.0,Windows 10,3.35,73473.12,1080,1920,2.8,Intel,Both,1280,Intel,1
+199,Notebook,17.3,8.0,Windows 10,2.5,55677.6,1080,1920,1.8,Intel,SSD,256,Intel,1
+200,Gaming,15.6,16.0,Windows 10,2.65,98301.6,2160,3840,2.8,Intel,Both,1536,Intel,1
+201,Notebook,15.6,4.0,Windows 10,2.1,26267.04,768,1366,2.3,Intel,SSD,128,Intel,0
+202,Notebook,15.6,8.0,Windows 10,2.23,39533.76,1080,1920,2.7,Intel,HDD,1024,Intel,1
+203,Gaming,15.6,16.0,Windows 10,3.2,93186.72,1080,1920,2.8,Intel,Both,1536,Intel,1
+204,Workstation,15.6,16.0,Windows 10,2.8,162770.4,2160,3840,3.0,Intel,Both,1280,Intel,1
+205,Gaming,15.6,16.0,No OS,2.4,74485.44,1080,1920,2.8,Intel,SSD,512,Intel,1
+206,Notebook,15.6,6.0,Windows 10,2.3,23389.92,768,1366,2.4,Intel,HDD,1024,Intel,0
+207,Ultrabook,13.3,8.0,Windows 10,1.21,103842.72,2160,3840,1.8,Intel,SSD,256,Intel,0
+208,Ultrabook,13.3,8.0,Windows 10,1.2,77202.72,1080,1920,1.8,Intel,SSD,256,Intel,0
+209,Notebook,15.6,8.0,Windows 10,2.2,31808.16,768,1366,2.5,Intel,SSD,256,Intel,0
+210,Notebook,15.6,8.0,Linux,2.4,41505.12,1080,1920,2.8,Intel,HDD,1024,Intel,1
+211,Gaming,17.3,16.0,Windows 10,2.9,74964.95999999999,1080,1920,2.8,Intel,Both,1280,Intel,1
+212,Notebook,15.6,4.0,No OS,2.1,18594.72,1080,1920,2.0,Intel,HDD,500,Intel,0
+213,Notebook,15.6,8.0,No OS,2.2,29250.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+214,Ultrabook,13.0,8.0,Windows 10,1.05,79866.72,1440,2160,2.7,Intel,SSD,512,Intel,0
+215,Ultrabook,13.3,8.0,Windows 10,1.4,49650.5664,1080,1920,1.8,Intel,SSD,256,Intel,1
+216,Notebook,17.3,8.0,No OS,2.8,31381.92,900,1600,2.5,Intel,HDD,1024,Intel,1
+217,Notebook,14.0,8.0,Windows 10,1.63,54931.68,1080,1920,1.8,Intel,SSD,256,Intel,1
+218,Ultrabook,14.0,8.0,Windows 10,1.6,61218.72,1080,1920,1.6,Intel,SSD,256,Intel,0
+219,2 in 1 Convertible,13.3,16.0,Windows 10,1.62,68145.12,1080,1920,1.8,Intel,SSD,512,Intel,0
+220,Notebook,15.6,8.0,Linux,2.2,36089.208,1080,1920,1.6,Intel,SSD,256,Intel,1
+221,2 in 1 Convertible,14.0,8.0,Windows 10,1.74,47898.72,1080,1920,1.6,Intel,SSD,256,Intel,0
+222,Ultrabook,13.3,8.0,Windows 10,1.2,72620.64,1080,1920,2.5,Intel,SSD,256,Intel,0
+223,Notebook,15.6,8.0,Windows 10,2.1,42304.32,1080,1920,1.6,Intel,HDD,1024,Intel,0
+224,Gaming,17.3,16.0,Windows 10,4.42,130873.7952,1080,1920,2.8,Intel,Both,1280,Intel,1
+225,Notebook,15.6,8.0,Windows 10,2.2,44328.96,1080,1920,2.7,Intel,SSD,256,Intel,1
+226,Notebook,15.6,16.0,Windows 10,2.3,45768.0528,1080,1920,2.7,Intel,HDD,1024,Intel,1
+227,Notebook,15.6,8.0,Windows 10,2.0,40972.32,1080,1920,2.5,Intel,SSD,256,Intel,1
+228,Notebook,17.3,8.0,Windows 10,2.69,47472.48,1080,1920,2.5,Intel,Both,756,Intel,1
+229,Notebook,15.6,8.0,Windows 10,1.9,67612.31999999999,1080,1920,2.7,Intel,HDD,1024,Intel,1
+230,Notebook,15.6,4.0,Windows 10,2.37,21258.1872,768,1366,2.4,Intel,HDD,1024,Intel,0
+231,Notebook,15.6,4.0,Windows 10,2.1,17582.399999999998,768,1366,1.5,AMD,HDD,500,AMD,1
+232,Gaming,15.6,16.0,Windows 10,3.2,79866.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+233,Notebook,14.0,8.0,Windows 10,1.6,45767.52,1080,1920,2.5,Intel,SSD,256,Intel,0
+234,2 in 1 Convertible,13.3,8.0,Windows 10,1.6,36709.92,1080,1920,2.3,Intel,SSD,256,Intel,0
+235,Notebook,15.6,16.0,Linux,2.36,47898.72,1080,1920,2.7,Intel,SSD,256,Intel,1
+236,Notebook,15.6,4.0,Linux,2.1,20779.2,768,1366,2.0,Intel,HDD,1024,Intel,0
+237,Notebook,15.6,4.0,Windows 10,2.2,30636.0,1080,1920,2.5,AMD,Both,1152,AMD,1
+238,Gaming,17.3,32.0,Windows 10,4.7,207259.2,1080,1920,2.9,Intel,Both,1536,Intel,1
+239,Gaming,15.6,8.0,Windows 10,2.5,45074.88,1080,1920,2.5,Intel,SSD,256,Intel,1
+240,Notebook,15.6,8.0,Windows 10,2.2,31381.92,768,1366,2.0,Intel,SSD,128,Intel,0
+241,Notebook,17.3,8.0,Windows 10,2.1,61005.6,1080,1920,1.8,Intel,Both,1152,Intel,1
+242,Notebook,17.3,8.0,No OS,2.69,47365.92,1080,1920,2.7,Intel,Both,1152,Intel,1
+243,Gaming,15.6,8.0,Windows 10,2.56,46833.12,1080,1920,2.5,Intel,SSD,256,Intel,1
+244,2 in 1 Convertible,13.9,8.0,Windows 10,1.38,57489.12,1080,1920,2.7,Intel,SSD,256,Intel,0
+245,Notebook,15.6,8.0,Windows 10,2.2,52480.8,1080,1920,1.8,Intel,Both,2176,Intel,1
+246,Notebook,15.6,8.0,Windows 10,2.04,29783.52,768,1366,2.5,Intel,HDD,1024,Intel,0
+247,Gaming,17.3,16.0,Windows 10,3.6,159786.72,1080,1920,2.9,Intel,SSD,256,Intel,1
+248,Notebook,13.3,4.0,Windows 10,1.49,35964.0,1080,1920,1.6,Intel,HDD,500,Intel,0
+249,Ultrabook,13.3,8.0,macOS,1.37,108691.2,1600,2560,3.1,Intel,SSD,512,Intel,0
+250,2 in 1 Convertible,15.6,8.0,Windows 10,2.08,43636.32,1080,1920,1.8,Intel,HDD,1024,Intel,0
+251,Gaming,17.3,16.0,Windows 10,4.3,95850.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+252,Notebook,15.6,4.0,Windows 10,1.68,24988.32,768,1366,3.0,AMD,HDD,1024,AMD,1
+253,2 in 1 Convertible,13.9,8.0,Windows 10,1.37,98514.72,1080,1920,1.8,Intel,SSD,512,Intel,0
+254,Notebook,17.3,4.0,Windows 10,3.0,37402.56,1080,1920,2.7,Intel,SSD,256,Intel,1
+255,Ultrabook,13.3,8.0,Windows 10,1.41,50562.72,1080,1920,1.6,Intel,SSD,256,Intel,0
+256,Notebook,15.6,8.0,Windows 10,1.91,23757.552,768,1366,2.5,AMD,SSD,128,AMD,1
+257,Notebook,17.3,16.0,Windows 10,2.9,56423.52,1080,1920,1.8,Intel,HDD,1024,Intel,1
+258,Gaming,17.3,16.0,Windows 10,4.14,133146.72,1080,1920,2.8,Intel,Both,1536,Intel,1
+259,2 in 1 Convertible,15.6,8.0,Windows 10,2.0,90522.72,1080,1920,2.8,Intel,SSD,512,Intel,1
+260,Notebook,17.3,8.0,Windows 10,2.8,60845.76,1080,1920,1.8,Intel,Both,1152,Intel,1
+261,Notebook,15.6,4.0,No OS,2.2,23656.32,1080,1920,2.0,Intel,SSD,256,Intel,0
+262,Notebook,15.6,4.0,Windows 10,2.1,38468.16,1080,1920,1.6,Intel,HDD,500,Intel,0
+263,Notebook,15.6,4.0,Windows 10,2.18,35004.96,1080,1920,2.5,Intel,HDD,1024,Intel,0
+264,Notebook,15.6,8.0,Windows 10,2.24,30103.2,1080,1920,2.5,Intel,HDD,1024,Intel,1
+265,2 in 1 Convertible,15.6,8.0,Windows 10,2.67,42570.72,1080,1920,1.6,Intel,SSD,256,Intel,0
+266,2 in 1 Convertible,13.3,8.0,Windows 10,1.1,79866.72,1080,1920,1.8,Intel,SSD,1024,Intel,0
+267,Notebook,15.6,4.0,No OS,2.2,24881.76,1080,1920,2.5,Intel,HDD,1024,Intel,0
+268,Notebook,17.3,8.0,Windows 10,2.5,54239.04,1080,1920,1.8,Intel,HDD,1024,Intel,1
+269,Notebook,15.6,8.0,Windows 10,2.05,46886.4,1080,1920,1.8,Intel,SSD,256,Intel,0
+270,Ultrabook,13.3,8.0,macOS,1.37,104370.192,1600,2560,2.9,Intel,SSD,512,Intel,0
+271,Gaming,17.3,16.0,Windows 10,3.2,82530.72,1080,1920,3.0,AMD,Both,1280,AMD,1
+272,Notebook,15.6,8.0,Linux,2.14,39164.5296,1080,1920,1.8,Intel,SSD,256,Intel,1
+273,2 in 1 Convertible,14.0,16.0,Windows 10,1.36,133146.72,1440,2560,2.6,Intel,SSD,512,Intel,0
+274,Notebook,15.6,8.0,Windows 10,2.2,43263.36,768,1366,2.5,Intel,HDD,500,Intel,1
+275,Notebook,15.6,12.0,Windows 10,2.3,37992.3696,768,1366,2.7,Intel,HDD,1024,Intel,0
+276,Notebook,17.3,8.0,Linux,2.8,58554.72,1080,1920,1.8,Intel,Both,1152,Intel,1
+277,Notebook,15.6,8.0,Windows 10,2.2,39693.6,1080,1920,1.8,Intel,HDD,1024,Intel,1
+278,Notebook,17.3,4.0,Windows 10,2.8,26053.92,900,1600,2.0,Intel,HDD,1024,Intel,0
+279,Notebook,17.3,8.0,No OS,2.8,45234.72,1080,1920,1.8,Intel,HDD,2048,Intel,1
+280,Notebook,17.3,6.0,Windows 10,2.8,45767.52,900,1600,2.7,Intel,Both,1152,Intel,1
+281,Notebook,15.6,4.0,Linux,2.25,22803.84,1080,1920,2.0,Intel,HDD,1024,Intel,1
+282,Gaming,15.6,8.0,Windows 10,2.5,44169.12,1080,1920,2.5,Intel,SSD,256,Intel,1
+283,Notebook,15.6,6.0,Windows 10,2.2,30849.12,1080,1920,2.5,Intel,SSD,256,Intel,0
+284,Notebook,15.6,8.0,Windows 10,3.0,50669.28,1080,1920,1.8,Intel,SSD,256,Intel,1
+285,Notebook,15.6,12.0,Windows 10,2.15,35111.52,1080,1920,2.7,Intel,HDD,1024,Intel,0
+286,Notebook,15.6,8.0,Windows 10,1.95,58448.16,1080,1920,2.7,Intel,SSD,256,Intel,0
+287,Ultrabook,15.6,8.0,Windows 10,1.7,52054.56,1080,1920,2.5,Intel,SSD,256,Intel,1
+288,Gaming,15.6,16.0,Windows 10,2.5,62817.12,1080,1920,2.8,Intel,Both,1280,Intel,1
+289,Notebook,15.6,8.0,No OS,2.2,35112.0528,1080,1920,2.7,Intel,HDD,1024,Intel,1
+290,Notebook,15.6,2.0,Chrome OS,2.19,10602.72,768,1366,1.5,Intel,SSD,16,Intel,0
+291,Gaming,17.3,8.0,Windows 10,3.0,63243.36,1080,1920,2.8,Intel,HDD,1024,Intel,1
+292,Notebook,17.3,8.0,Windows 10,2.54,26053.92,900,1600,2.0,Intel,HDD,1024,Intel,0
+293,Notebook,15.6,8.0,Windows 10,2.0,97449.12,1080,1920,2.8,Intel,SSD,256,Intel,1
+294,Notebook,15.6,8.0,Windows 10,2.05,39373.92,1080,1920,1.6,Intel,SSD,256,Intel,0
+295,Gaming,15.6,8.0,Windows 10,3.2,69210.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+296,Notebook,15.6,8.0,Linux,2.5,52161.12,1080,1920,2.8,Intel,SSD,256,Intel,1
+297,Workstation,17.3,16.0,Windows 10,3.42,153705.3408,1080,1920,2.9,Intel,SSD,256,Intel,1
+298,Notebook,15.6,6.0,Windows 10,2.4,26586.72,1080,1920,2.4,AMD,HDD,1024,AMD,1
+299,Ultrabook,15.6,16.0,Windows 10,1.63,78215.04,1080,1920,2.7,Intel,SSD,512,Intel,1
+300,Notebook,14.0,4.0,Windows 10,1.3,27119.52,768,1366,2.4,Intel,SSD,128,Intel,0
+301,Gaming,17.3,16.0,Windows 10,2.9,113060.16,1080,1920,2.8,Intel,Both,1280,Intel,1
+302,Notebook,17.3,6.0,Windows 10,2.8,34578.72,900,1600,2.5,Intel,HDD,1024,Intel,1
+303,Notebook,15.6,8.0,No OS,2.2,29250.72,768,1366,2.5,Intel,HDD,2048,Intel,1
+304,Gaming,15.6,8.0,Windows 10,2.5,67399.2,1080,1920,2.8,Intel,Both,1152,Intel,1
+305,Notebook,15.6,4.0,No OS,2.2,19180.2672,768,1366,1.1,Intel,HDD,1024,Intel,0
+306,2 in 1 Convertible,13.3,16.0,Windows 10,1.28,105228.0,1080,1920,2.8,Intel,SSD,256,Intel,0
+307,Notebook,15.6,8.0,Windows 10,2.2,55571.04,1080,1920,2.5,Intel,SSD,256,Intel,1
+308,Notebook,15.6,8.0,Windows 10,2.3,43636.32,1080,1920,2.5,Intel,Both,1152,Intel,1
+309,Notebook,15.6,4.0,Windows 10,1.86,24988.32,1080,1920,2.0,Intel,HDD,1024,Intel,0
+310,Notebook,13.3,8.0,Windows 10,1.1,53226.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+311,Ultrabook,13.3,16.0,Windows 10,1.21,133146.72,2160,3840,1.8,Intel,SSD,1024,Intel,0
+312,Gaming,15.6,16.0,Windows 10,2.8,111834.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+313,Notebook,15.6,8.0,Windows 10,2.23,24988.32,1080,1920,2.2,AMD,SSD,256,AMD,1
+314,2 in 1 Convertible,11.6,2.0,Windows 10,1.1,14652.0,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+315,Notebook,15.6,8.0,Windows 10,2.33,44968.32,1080,1920,1.6,Intel,Both,1152,Intel,1
+316,2 in 1 Convertible,13.3,16.0,Windows 10,1.29,130482.72,2160,3840,1.8,Intel,SSD,1024,Intel,0
+317,Notebook,13.3,4.0,Chrome OS,1.45,24503.472,768,1366,1.6,Intel,Flash Storage,16,Intel,0
+318,Notebook,14.0,8.0,Windows 10,1.95,52214.4,1080,1920,2.5,Intel,SSD,256,Intel,0
+319,Notebook,11.6,4.0,Windows 10,1.4,25840.8,768,1366,1.6,Intel,Flash Storage,128,Intel,0
+320,Notebook,14.0,8.0,Windows 10,1.48,68837.76,1080,1920,2.7,Intel,SSD,256,Intel,0
+321,Notebook,17.3,4.0,Windows 10,2.79,31381.92,900,1600,2.5,Intel,HDD,1024,Intel,1
+322,Notebook,14.0,8.0,Windows 10,2.0,58288.32,1080,1920,2.7,Intel,SSD,256,Intel,0
+323,Notebook,15.6,8.0,Windows 10,2.1,48058.56,768,1366,1.8,Intel,HDD,1024,Intel,0
+324,Notebook,15.6,8.0,Windows 10,2.2,35111.52,768,1366,2.7,AMD,SSD,256,AMD,1
+325,Notebook,14.0,4.0,Windows 10,1.44,15557.76,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+326,Notebook,15.6,6.0,Windows 10,2.23,29250.72,768,1366,2.5,Intel,HDD,1024,Intel,0
+327,Ultrabook,15.6,8.0,Windows 10,1.7,55938.672,1080,1920,2.7,Intel,SSD,256,Intel,1
+328,Ultrabook,12.5,8.0,Windows 10,1.26,71128.8,1080,1920,2.7,Intel,SSD,256,Intel,0
+329,Notebook,15.6,32.0,Windows 10,2.06,140605.91999999998,2160,3840,2.8,Intel,SSD,1024,Intel,1
+330,Gaming,17.3,8.0,Windows 10,2.7,63882.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+331,Notebook,15.6,8.0,Windows 10,2.0,50243.04,1080,1920,2.5,Intel,SSD,256,Intel,0
+332,Notebook,14.0,8.0,Windows 10,2.0,71075.52,1080,1920,2.7,Intel,Both,1280,Intel,0
+333,Notebook,15.6,4.0,Windows 10,1.85,23922.72,1080,1920,2.0,Intel,HDD,1024,Intel,0
+334,Gaming,15.6,8.0,Windows 10,2.5,53226.72,1080,1920,2.8,Intel,SSD,256,Intel,1
+335,Notebook,14.0,8.0,Windows 10,1.48,67559.04,1080,1920,2.6,Intel,SSD,256,Intel,0
+336,Ultrabook,15.6,8.0,Windows 10,1.9,55890.72,1080,1920,1.6,Intel,Both,1152,Intel,1
+337,Notebook,15.6,8.0,Windows 10,1.84,60952.32,1080,1920,2.5,Intel,SSD,256,Intel,0
+338,Notebook,15.6,4.0,Linux,2.0,14651.4672,768,1366,1.1,Intel,HDD,1024,Intel,0
+339,Notebook,15.6,8.0,Windows 10,2.0,60885.72,1080,1920,1.6,Intel,SSD,256,Intel,1
+340,Notebook,15.6,4.0,Linux,2.2,14646.672,768,1366,1.6,Intel,HDD,500,Intel,0
+341,Notebook,15.6,12.0,Windows 10,2.2,47898.72,1080,1920,3.6,AMD,HDD,2048,AMD,1
+342,Notebook,15.6,8.0,Windows 10,2.1,38148.48,1080,1920,2.4,Intel,HDD,1024,Intel,1
+343,2 in 1 Convertible,13.9,16.0,Windows 10,1.4,111834.72,2160,3840,1.8,Intel,SSD,512,Intel,0
+344,Ultrabook,13.3,8.0,Windows 10,1.2,84129.12,1080,1920,1.8,Intel,SSD,256,Intel,0
+345,Gaming,15.6,16.0,Windows 10,2.4,60153.12,1080,1920,2.8,Intel,Both,2304,Intel,1
+346,Notebook,14.0,2.0,Windows 10,1.44,14865.12,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+347,Ultrabook,15.6,16.0,Windows 10,1.88,85672.1088,1080,1920,1.9,Intel,SSD,768,Intel,0
+348,2 in 1 Convertible,11.6,4.0,Windows 10,1.5,19980.0,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+349,Ultrabook,15.6,8.0,Windows 10,1.9,35324.64,1080,1920,1.6,Intel,HDD,1024,Intel,1
+350,Notebook,15.6,16.0,Windows 10,2.06,108020.9376,2160,3840,2.8,Intel,SSD,512,Intel,1
+351,Notebook,15.6,8.0,Windows 10,1.84,69477.12,1080,1920,2.7,Intel,SSD,256,Intel,0
+352,Gaming,17.3,8.0,Windows 10,2.7,75071.52,1080,1920,2.8,Intel,Both,1152,Intel,1
+353,Workstation,15.6,8.0,Windows 10,2.6,92615.0256,1080,1920,2.8,Intel,SSD,256,Intel,1
+354,Notebook,15.6,16.0,Windows 10,2.4,74751.84,1080,1920,2.5,Intel,SSD,512,Intel,1
+355,Notebook,15.6,8.0,Windows 10,2.02,51729.55199999999,1080,1920,1.8,Intel,Both,2176,Intel,1
+356,Notebook,15.6,4.0,No OS,2.2,17155.627200000003,768,1366,1.1,Intel,HDD,1024,Intel,0
+357,Gaming,15.6,8.0,Windows 10,2.65,53226.72,1080,1920,2.5,Intel,HDD,1024,Intel,1
+358,Notebook,15.6,8.0,Windows 10,2.36,29696.6736,768,1366,2.5,Intel,HDD,2048,Intel,0
+359,Notebook,14.0,8.0,Windows 10,1.36,76030.56,1080,1920,2.6,Intel,SSD,256,Intel,0
+360,Notebook,15.6,4.0,Windows 10,1.86,23389.92,768,1366,2.0,Intel,HDD,500,Intel,0
+361,Notebook,14.0,8.0,Windows 10,2.0,50349.6,1080,1920,2.5,Intel,SSD,256,Intel,0
+362,Notebook,17.3,6.0,Windows 10,2.8,38308.32,900,1600,2.5,Intel,Both,1152,Intel,1
+363,Notebook,15.6,8.0,Windows 10,1.86,34045.92,1080,1920,2.5,Intel,HDD,1024,Intel,0
+364,Notebook,15.6,8.0,No OS,2.2,26586.72,768,1366,2.0,Intel,SSD,256,Intel,1
+365,Notebook,15.6,8.0,Windows 10,2.04,20725.92,768,1366,1.6,Intel,HDD,2048,Intel,0
+366,Notebook,17.3,8.0,Windows 10,2.8,57808.8,1080,1920,1.6,Intel,Both,1152,Intel,1
+367,Gaming,15.6,8.0,No OS,2.4,43103.52,1080,1920,2.5,Intel,Both,1152,Intel,1
+368,Notebook,15.6,8.0,Windows 10,2.33,47898.72,1080,1920,2.7,Intel,SSD,256,Intel,1
+369,Ultrabook,14.0,8.0,Windows 10,1.36,93240.0,1080,1920,2.7,Intel,SSD,256,Intel,0
+370,2 in 1 Convertible,15.6,12.0,Windows 10,2.26,58554.72,1080,1920,2.7,Intel,Both,2560,Intel,1
+371,Notebook,15.6,4.0,Windows 10,2.1,22697.28,768,1366,3.0,AMD,SSD,128,AMD,1
+372,Gaming,17.3,16.0,Windows 10,3.25,117162.72,1080,1920,3.0,AMD,Both,1280,AMD,1
+373,Notebook,17.3,4.0,Windows 10,2.6,26053.92,900,1600,2.2,AMD,SSD,128,AMD,1
+374,2 in 1 Convertible,13.3,8.0,Windows 10,1.62,46300.85279999999,1080,1920,1.8,Intel,SSD,256,Intel,0
+375,Notebook,15.6,4.0,Windows 10,1.91,26053.3872,1080,1920,3.0,AMD,SSD,256,AMD,1
+376,Netbook,11.6,4.0,Windows 10,1.59,29463.84,768,1366,1.1,Intel,SSD,128,Intel,0
+377,Notebook,15.6,4.0,Windows 10,1.8,16463.52,768,1366,1.6,Intel,HDD,500,Intel,0
+378,Notebook,14.0,4.0,Windows 10,1.5,15238.08,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+379,Notebook,15.6,8.0,Linux,2.4,45074.88,1080,1920,2.8,Intel,HDD,1024,Intel,1
+380,Gaming,17.3,8.0,Windows 10,3.35,63456.48,1080,1920,2.8,Intel,Both,1152,Intel,1
+381,Notebook,15.6,4.0,No OS,1.85,21498.48,1080,1920,2.0,Intel,SSD,128,Intel,0
+382,Gaming,15.6,8.0,Windows 10,2.3,88178.4,1080,1920,2.8,Intel,Both,1152,Intel,1
+383,Notebook,14.0,8.0,Windows 10,1.5,58554.72,1080,1920,2.5,Intel,SSD,256,Intel,1
+384,Ultrabook,13.3,16.0,Windows 10,1.1,93181.392,1080,1920,2.7,Intel,SSD,512,Intel,0
+385,Ultrabook,14.0,8.0,Windows 10,1.13,121584.96,1440,2560,2.7,Intel,SSD,512,Intel,0
+386,Notebook,13.3,4.0,Windows 10,1.5,29250.72,1080,1920,2.4,Intel,SSD,128,Intel,0
+387,Workstation,15.6,8.0,Windows 10,2.23,72940.31999999999,1080,1920,2.6,Intel,HDD,500,Intel,1
+388,Workstation,15.6,8.0,Windows 10,2.0,113752.8,1080,1920,2.7,Intel,SSD,256,Intel,1
+389,2 in 1 Convertible,14.0,16.0,Windows 10,1.42,133679.52,1440,2560,2.7,Intel,SSD,512,Intel,0
+390,Gaming,17.3,8.0,Windows 10,3.0,55357.92,1080,1920,2.8,Intel,HDD,1024,Intel,1
+391,Gaming,17.3,16.0,Windows 10,3.0,84768.48,1080,1920,2.8,Intel,Both,1280,Intel,1
+392,Notebook,15.6,12.0,Windows 10,2.2,36975.7872,768,1366,1.6,Intel,HDD,1024,Intel,1
+393,Gaming,17.3,8.0,Windows 10,2.7,71874.72,1080,1920,2.8,Intel,SSD,256,Intel,1
+394,Notebook,15.6,8.0,Linux,2.33,41498.1936,1080,1920,2.7,Intel,SSD,256,Intel,1
+395,Ultrabook,15.6,4.0,Windows 10,1.91,26586.72,1080,1920,3.0,AMD,SSD,256,AMD,1
+396,Notebook,15.6,8.0,Windows 10,2.1,65510.9568,1080,1920,1.8,Intel,SSD,256,Intel,1
+397,Notebook,14.0,8.0,Windows 10,1.9,49976.64,1080,1920,2.5,Intel,SSD,256,Intel,0
+398,Workstation,15.6,8.0,Windows 10,1.78,144495.36,2160,3840,2.8,Intel,SSD,256,Intel,1
+399,Ultrabook,14.0,16.0,Windows 10,1.13,139860.0,1440,2560,2.7,Intel,SSD,1024,Intel,0
+400,Notebook,15.6,4.0,Windows 10,2.2,16303.68,768,1366,1.1,Intel,HDD,1024,Intel,0
+401,Gaming,17.3,16.0,Windows 10,2.9,81465.12,1080,1920,2.8,Intel,Both,1280,Intel,1
+402,Notebook,15.6,8.0,Windows 10,2.1,60978.96,1080,1920,1.6,Intel,Both,1280,Intel,1
+403,Notebook,15.6,8.0,Linux,2.5,46833.12,1080,1920,2.8,Intel,SSD,256,Intel,1
+404,Gaming,17.3,16.0,Windows 10,2.8,119826.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+405,Ultrabook,14.0,8.0,Windows 10,1.1,99793.44,1080,1920,2.7,Intel,SSD,512,Intel,0
+406,Ultrabook,13.3,16.0,Windows 10,1.2,93080.16,1080,1920,2.5,Intel,SSD,512,Intel,0
+407,Ultrabook,14.0,8.0,Windows 10,1.36,89510.4,1080,1920,2.8,Intel,SSD,512,Intel,0
+408,Notebook,15.6,4.0,Windows 10,2.2,21791.52,1080,1920,2.0,Intel,HDD,500,Intel,0
+409,Notebook,11.6,2.0,Windows 10,1.15,16221.096,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+410,Workstation,15.6,8.0,Windows 10,2.67,102564.0,1080,1920,2.8,Intel,SSD,512,Intel,1
+411,Ultrabook,14.0,8.0,Windows 10,1.7,103523.04,1440,2560,2.8,Intel,SSD,512,Intel,1
+412,Notebook,15.6,4.0,Windows 10,2.1,24988.32,1080,1920,2.0,Intel,HDD,1024,Intel,1
+413,2 in 1 Convertible,13.3,8.0,Windows 10,1.6,42038.4528,1080,1920,2.5,Intel,SSD,256,Intel,0
+414,2 in 1 Convertible,13.3,8.0,Windows 10,1.27,49443.84,1080,1920,2.5,Intel,SSD,256,Intel,0
+415,Notebook,15.6,4.0,Linux,2.3,31909.392,1080,1920,2.5,Intel,SSD,256,Intel,1
+416,Notebook,13.3,4.0,Windows 10,1.65,36709.92,768,1366,2.0,Intel,SSD,128,Intel,0
+417,Ultrabook,14.0,8.0,Windows 10,1.43,79920.0,1080,1920,2.5,Intel,SSD,256,Intel,0
+418,Notebook,15.6,8.0,Windows 10,2.14,28768.536,768,1366,2.5,Intel,HDD,1024,Intel,0
+419,Ultrabook,14.0,8.0,Windows 10,1.75,64755.44640000001,1080,1920,1.8,Intel,SSD,256,Intel,1
+420,2 in 1 Convertible,15.6,16.0,Windows 10,2.0,101178.72,2160,3840,2.8,Intel,SSD,512,Intel,1
+421,Notebook,12.3,6.0,Windows 10,1.4,23922.72,1824,2736,1.1,Intel,Flash Storage,64,Intel,0
+422,Notebook,15.6,8.0,Windows 10,2.31,76030.56,1080,1920,2.9,Intel,SSD,256,Intel,0
+423,Notebook,15.6,8.0,Linux,2.3,31808.16,1080,1920,2.4,Intel,HDD,1024,Intel,1
+424,Gaming,17.3,16.0,Windows 10,4.42,149130.72,1440,2560,2.9,Intel,Both,1280,Intel,1
+425,Gaming,15.6,8.0,Windows 10,2.62,61751.52,1080,1920,2.8,Intel,Both,1152,Intel,1
+426,Notebook,15.6,8.0,Windows 10,2.02,60867.072,1080,1920,1.8,Intel,Both,2304,Intel,1
+427,Ultrabook,14.0,8.0,Linux,1.6,58554.72,1080,1920,2.8,Intel,SSD,256,Intel,0
+428,Gaming,17.3,12.0,Windows 10,3.35,106506.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+429,2 in 1 Convertible,11.6,4.0,Windows 10,1.16,15930.72,1080,1920,1.1,Intel,SSD,32,Intel,0
+430,Netbook,11.6,4.0,Chrome OS,1.15,14332.32,768,1366,1.6,Intel,Flash Storage,16,Intel,0
+431,Notebook,13.3,8.0,Windows 10,1.4,53812.8,1080,1920,2.7,Intel,SSD,256,Intel,0
+432,Notebook,14.0,4.0,Windows 10,1.7,31914.72,1080,1920,2.7,Intel,SSD,128,Intel,0
+433,Workstation,15.6,16.0,Windows 10,2.3,130269.6,2160,3840,2.8,Intel,SSD,512,Intel,1
+434,Notebook,15.6,16.0,Windows 10,2.5,130482.72,1080,1920,2.9,Intel,SSD,512,Intel,1
+435,Gaming,17.3,8.0,Windows 10,3.2,90309.6,1080,1920,3.2,AMD,Both,1280,AMD,1
+436,Notebook,15.6,4.0,Windows 10,2.1,18488.16,768,1366,1.6,Intel,HDD,500,Intel,0
+437,Ultrabook,12.3,16.0,Chrome OS,1.1,117162.72,1600,2400,1.3,Intel,SSD,512,Intel,0
+438,Ultrabook,14.0,24.0,Windows 10,1.32,126912.96,1440,2560,2.7,Intel,SSD,512,Intel,0
+439,Notebook,15.6,4.0,Linux,2.0,29783.52,1080,1920,2.5,Intel,SSD,256,Intel,0
+440,Notebook,17.3,8.0,Windows 10,2.8,27652.32,900,1600,2.5,AMD,HDD,1024,AMD,1
+441,Notebook,15.6,4.0,Windows 10,2.2,39906.72,1080,1920,1.6,Intel,SSD,256,Intel,1
+442,Ultrabook,12.5,8.0,Windows 10,1.36,76137.12,1080,1920,2.5,Intel,SSD,256,Intel,0
+443,Notebook,15.6,4.0,Windows 10,2.2,18594.72,1080,1920,1.1,Intel,SSD,128,Intel,0
+444,Gaming,15.6,8.0,Windows 10,2.2,58554.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+445,Notebook,14.0,8.0,Windows 10,1.64,62817.12,1080,1920,2.8,Intel,SSD,256,Intel,1
+446,Notebook,15.6,4.0,Linux,2.4,23539.104,768,1366,2.5,Intel,HDD,500,Intel,0
+447,Workstation,15.6,8.0,Windows 10,2.23,106187.04,1080,1920,3.0,Intel,Both,1088,Intel,1
+448,Gaming,15.6,8.0,Windows 10,2.2,54757.9872,1080,1920,2.5,Intel,SSD,256,Intel,1
+449,Ultrabook,13.5,16.0,Windows 10 S,1.25,137941.91999999998,1504,2256,2.5,Intel,SSD,512,Intel,0
+450,Notebook,15.6,8.0,Windows 10,1.91,31381.92,768,1366,2.5,Intel,SSD,128,Intel,0
+451,Workstation,15.6,16.0,Windows 10,2.17,105228.0,1080,1920,2.7,Intel,SSD,256,Intel,1
+452,Workstation,15.6,8.0,Windows 10,2.31,81731.52,1080,1920,2.9,Intel,SSD,512,Intel,0
+453,Notebook,14.0,8.0,Windows 10,1.65,71661.59999999999,1080,1920,2.5,Intel,SSD,256,Intel,0
+454,Notebook,15.6,8.0,Windows 10,2.36,52161.12,1080,1920,1.8,Intel,Both,1152,Intel,1
+455,2 in 1 Convertible,11.6,4.0,Windows 10,1.47,25521.12,768,1366,1.6,Intel,HDD,500,Intel,0
+456,Notebook,17.3,8.0,Windows 10,4.42,109010.88,1080,1920,2.7,Intel,HDD,1024,Intel,1
+457,Ultrabook,13.5,4.0,Windows 10 S,1.252,52693.92,1504,2256,2.2,Intel,SSD,128,Intel,0
+458,Ultrabook,13.5,8.0,Windows 10 S,1.25,95850.72,1504,2256,2.5,Intel,SSD,256,Intel,0
+459,Notebook,17.3,8.0,Windows 10,2.5,34093.872,900,1600,2.0,Intel,SSD,256,Intel,0
+460,Notebook,15.6,4.0,Windows 10,2.23,28984.32,1080,1920,2.0,Intel,HDD,1024,Intel,1
+461,Netbook,11.6,4.0,Windows 10,1.4,23176.8,768,1366,1.6,Intel,SSD,128,Intel,0
+462,Notebook,15.6,8.0,Windows 10,2.37,39906.72,1080,1920,2.5,Intel,HDD,1024,Intel,0
+463,Notebook,14.0,8.0,No OS,1.5,42570.72,1080,1920,2.7,Intel,SSD,512,Intel,1
+464,Notebook,15.6,8.0,Windows 10,2.67,111355.2,1080,1920,2.9,Intel,SSD,256,Intel,1
+465,Notebook,15.6,4.0,Windows 10,2.0,16197.12,768,1366,1.1,Intel,HDD,500,Intel,0
+466,Notebook,15.6,4.0,Windows 10,2.2,24988.32,768,1366,2.0,Intel,HDD,500,Intel,1
+467,Notebook,15.6,8.0,Windows 10,2.02,40439.52,1080,1920,1.6,Intel,HDD,2048,Intel,1
+468,Gaming,17.3,12.0,Windows 10,3.78,90522.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+469,Ultrabook,14.0,12.0,Windows 10,1.4,98994.24,1440,2560,2.6,Intel,SSD,256,Intel,0
+470,2 in 1 Convertible,13.3,8.0,Windows 10,1.29,106506.72,2160,3840,1.8,Intel,SSD,512,Intel,0
+471,Notebook,15.6,8.0,Windows 10,1.9,61485.12,1080,1920,2.5,Intel,HDD,500,Intel,1
+472,Ultrabook,12.3,8.0,Chrome OS,1.1,67932.0,1600,2400,1.2,Intel,SSD,128,Intel,0
+473,Ultrabook,13.3,8.0,Windows 10,1.42,98133.768,1080,1920,1.6,Intel,SSD,256,Intel,0
+474,Notebook,15.6,12.0,Windows 10,2.06,69210.72,2160,3840,2.6,Intel,Both,1152,Intel,0
+475,Notebook,14.0,8.0,Windows 10,1.79,39427.2,768,1366,2.3,Intel,SSD,128,Intel,0
+476,Workstation,15.6,8.0,Windows 10,1.78,128298.24,1080,1920,2.8,Intel,SSD,256,Intel,1
+477,Notebook,14.0,8.0,Windows 10,1.7,72673.92,1080,1920,2.5,Intel,SSD,180,Intel,0
+478,Notebook,15.6,8.0,Windows 10,2.2,35964.0,1080,1920,1.6,Intel,HDD,1024,Intel,1
+479,Notebook,13.3,8.0,Windows 10,1.05,89084.16,1080,1920,2.5,Intel,SSD,256,Intel,0
+480,Notebook,15.6,8.0,Windows 10,2.16,67239.36,1080,1920,1.8,Intel,SSD,512,Intel,1
+481,Notebook,15.6,4.0,Windows 10,2.18,31254.048,768,1366,2.4,Intel,HDD,1024,Intel,0
+482,Notebook,13.3,4.0,Windows 10,1.49,38681.28,1080,1920,1.6,Intel,SSD,128,Intel,0
+483,Notebook,15.6,4.0,Windows 10,1.89,13261.392000000002,1080,1920,1.44,Intel,Flash Storage,64,Intel,0
+484,Notebook,15.6,4.0,Windows 10,2.3,30103.2,768,1366,2.0,Intel,SSD,128,Intel,0
+485,Notebook,14.0,8.0,Windows 10,1.75,55890.72,1080,1920,1.6,Intel,SSD,256,Intel,0
+486,Workstation,15.6,16.0,Windows 10,2.17,124568.64,1080,1920,2.7,Intel,SSD,512,Intel,1
+487,Notebook,15.6,16.0,Windows 10,2.06,101178.72,1080,1920,2.8,Intel,SSD,512,Intel,1
+488,Ultrabook,12.5,16.0,Windows 10,1.36,95797.44,1080,1920,2.7,Intel,SSD,512,Intel,0
+489,Ultrabook,12.5,16.0,Windows 10,0.91,103896.0,1080,1920,2.7,Intel,SSD,512,Intel,0
+490,Notebook,15.6,8.0,Windows 10,2.3,53918.82719999999,1080,1920,2.5,Intel,SSD,256,Intel,1
+491,Ultrabook,13.3,32.0,Windows 10,1.05,149130.72,1080,1920,2.7,Intel,SSD,512,Intel,0
+492,Gaming,15.6,8.0,Windows 10,1.99,71928.0,1080,1920,2.8,Intel,Both,1152,Intel,1
+493,Notebook,15.6,8.0,Windows 10,2.2,30849.12,768,1366,2.5,AMD,HDD,1024,AMD,1
+494,Gaming,17.3,24.0,Windows 10,4.33,67612.31999999999,1080,1920,2.6,Intel,Both,1280,Intel,1
+495,Ultrabook,12.5,8.0,Windows 10,1.3,58554.72,768,1366,2.3,Intel,SSD,180,Intel,0
+496,Notebook,15.6,8.0,Windows 10,2.17,47893.39199999999,1080,1920,1.8,Intel,SSD,256,Intel,0
+497,Notebook,14.0,8.0,Windows 10,1.48,93186.72,1080,1920,2.8,Intel,SSD,1024,Intel,0
+498,Notebook,13.3,8.0,Windows 10,1.4,50562.72,1080,1920,2.4,Intel,SSD,256,Intel,0
+499,Notebook,15.6,8.0,Windows 10,2.3,48538.08,1080,1920,2.5,Intel,SSD,256,Intel,0
+500,Netbook,11.6,4.0,Windows 10 S,1.2,18115.2,768,1366,1.1,Intel,Flash Storage,64,Intel,0
+501,Notebook,15.6,8.0,Windows 10,1.91,32979.7872,768,1366,2.5,Intel,SSD,256,Intel,1
+502,2 in 1 Convertible,13.9,8.0,Windows 10,1.4,85194.72,1080,1920,1.6,Intel,SSD,256,Intel,0
+503,Notebook,14.0,4.0,Windows 10,2.1,15930.72,768,1366,1.1,Intel,HDD,500,Intel,0
+504,Netbook,11.6,4.0,Chrome OS,1.25,14119.2,768,1366,1.6,Intel,SSD,16,Intel,0
+505,Notebook,13.3,8.0,Windows 10,1.44,50562.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+506,Notebook,15.6,8.0,Windows 10,2.0,65214.72,1080,1920,2.7,Intel,Both,1280,Intel,0
+507,Notebook,15.6,4.0,Windows 10,2.2,32660.64,1080,1920,1.6,Intel,HDD,1024,Intel,1
+508,Ultrabook,13.3,8.0,Windows 10,1.34,70489.44,1080,1920,2.7,Intel,SSD,512,Intel,0
+509,Gaming,15.6,8.0,No OS,2.4,61218.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+510,Ultrabook,13.3,8.0,Windows 10,1.29,47898.72,1080,1920,2.5,Intel,SSD,128,Intel,0
+511,Notebook,15.6,4.0,Windows 10,2.2,34045.92,1080,1920,2.7,Intel,HDD,500,Intel,1
+512,Notebook,15.6,8.0,Windows 10,2.18,44542.08,1080,1920,2.5,Intel,HDD,1024,Intel,0
+513,Notebook,15.6,16.0,Windows 10,2.2,64961.10719999999,1080,1920,1.8,Intel,Both,2304,Intel,1
+514,Notebook,15.6,16.0,No OS,1.95,74589.336,1080,1920,1.8,Intel,SSD,256,Intel,1
+515,Netbook,11.6,2.0,Windows 10,1.1,13053.6,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+516,Notebook,15.6,4.0,Windows 10,2.04,27783.9216,768,1366,1.6,Intel,HDD,1024,Intel,0
+517,Gaming,15.6,24.0,Windows 10,2.24,158135.04,1080,1920,2.8,Intel,SSD,512,Intel,1
+518,Notebook,15.6,8.0,Windows 10,2.04,47365.92,1080,1920,2.5,Intel,SSD,256,Intel,1
+519,Gaming,17.3,16.0,Windows 10,3.0,80133.12,1080,1920,2.8,Intel,Both,1280,Intel,1
+520,Gaming,15.6,8.0,Windows 10,3.2,74538.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+521,Ultrabook,13.3,8.0,Windows 10,1.32,74538.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+522,Notebook,14.0,8.0,Windows 10,1.64,68184.0144,1080,1920,2.6,Intel,SSD,256,Intel,0
+523,Notebook,15.6,4.0,Windows 10,1.63,36709.92,768,1366,2.0,Intel,SSD,128,Intel,0
+524,Notebook,17.3,8.0,Linux,2.8,47365.92,1080,1920,1.6,Intel,Both,1152,Intel,1
+525,Notebook,14.0,8.0,Windows 7,2.02,71395.2,1080,1920,2.3,Intel,SSD,256,Intel,0
+526,Notebook,15.6,4.0,Windows 10,2.2,42570.72,1080,1920,2.7,Intel,HDD,1024,Intel,1
+527,Notebook,15.6,8.0,No OS,2.2,24455.52,768,1366,2.0,Intel,HDD,2048,Intel,1
+528,Notebook,15.6,4.0,Windows 10,2.3,31168.8,1080,1920,2.5,Intel,HDD,500,Intel,1
+529,Notebook,15.6,8.0,Windows 10,1.9,73366.56,1080,1920,2.8,Intel,SSD,256,Intel,0
+530,Gaming,17.3,16.0,Windows 10,4.42,160520.3856,1080,1920,2.8,Intel,Both,1152,Intel,1
+531,Notebook,15.6,8.0,Windows 10,2.0,45820.8,1080,1920,2.5,Intel,HDD,500,Intel,0
+532,Notebook,15.6,8.0,Windows 10,2.0,69210.72,2160,3840,2.7,Intel,Both,1280,Intel,1
+533,Notebook,13.3,4.0,Windows 10,1.2,19660.32,1080,1920,1.1,Intel,SSD,32,Intel,0
+534,Gaming,15.6,8.0,Windows 10,2.3,87858.72,1080,1920,2.5,Intel,Both,1152,Intel,1
+535,Notebook,15.6,8.0,Windows 10,1.93,72940.31999999999,1080,1920,2.8,Intel,SSD,256,Intel,1
+536,Notebook,15.6,8.0,Windows 10,2.2,42486.0048,1080,1920,1.6,Intel,SSD,256,Intel,1
+537,Notebook,15.6,4.0,Windows 10,1.86,21258.1872,1080,1920,1.6,Intel,SSD,256,Intel,0
+538,Gaming,17.3,12.0,Windows 10,2.62,95850.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+539,Notebook,14.0,8.0,Windows 10,1.87,45767.52,1080,1920,2.7,Intel,SSD,256,Intel,1
+540,Ultrabook,13.3,8.0,Windows 10,1.2,74538.72,1800,3200,1.8,Intel,SSD,256,Intel,0
+541,Notebook,14.0,4.0,Windows 10,1.6,39207.1536,1080,1920,2.0,Intel,SSD,128,Intel,0
+542,Ultrabook,13.3,8.0,Windows 10,1.34,61005.6,1800,3200,2.7,Intel,SSD,256,Intel,0
+543,Gaming,15.6,8.0,Linux,2.4,42517.44,1080,1920,2.5,Intel,HDD,1024,Intel,1
+544,Notebook,15.6,4.0,Windows 10,2.0,18594.72,768,1366,1.8,AMD,HDD,500,AMD,1
+545,Notebook,15.6,4.0,Windows 10,2.1,37589.04,1080,1920,2.4,Intel,SSD,128,Intel,0
+546,Notebook,14.0,4.0,Windows 10,1.87,41824.8,1080,1920,2.5,Intel,HDD,500,Intel,0
+547,Notebook,15.6,4.0,No OS,2.15,24634.008,1080,1920,2.3,Intel,HDD,1024,Intel,0
+548,Notebook,15.6,4.0,Windows 10,1.86,21152.16,1080,1920,2.0,Intel,HDD,500,Intel,0
+549,Notebook,15.6,8.0,Windows 10,1.99,92121.12,1080,1920,2.7,Intel,SSD,512,Intel,0
+550,Notebook,15.6,4.0,Windows 10,2.2,26586.72,1080,1920,2.0,Intel,SSD,128,Intel,0
+551,Notebook,15.6,8.0,Windows 10,1.9,59513.2272,1080,1920,2.5,Intel,SSD,256,Intel,0
+552,Gaming,17.3,16.0,Windows 10,4.42,143802.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+553,Notebook,17.3,8.0,Windows 10,2.65,28992.312,900,1600,2.0,Intel,HDD,1024,Intel,0
+554,Notebook,17.3,8.0,Windows 10,2.63,68198.4,1080,1920,2.7,Intel,HDD,1024,Intel,1
+555,Notebook,15.6,4.0,Linux,2.0,11934.72,768,1366,1.1,Intel,HDD,500,Intel,0
+556,Notebook,13.3,4.0,Windows 10,1.35,13586.4,1080,1920,1.44,Intel,Flash Storage,32,Intel,0
+557,Notebook,17.3,6.0,Windows 10,2.8,50562.72,900,1600,2.7,Intel,Both,1152,Intel,1
+558,Notebook,15.6,6.0,Windows 10,1.91,30310.992,1080,1920,2.5,AMD,SSD,128,AMD,1
+559,Notebook,15.6,4.0,Windows 10,2.18,32921.712,768,1366,2.0,Intel,HDD,1024,Intel,1
+560,2 in 1 Convertible,11.6,4.0,Windows 10,1.25,18594.72,1080,1920,2.0,Intel,Flash Storage,32,Intel,0
+561,Notebook,15.6,4.0,Windows 10,2.05,33566.4,1080,1920,2.7,Intel,SSD,128,Intel,0
+562,Ultrabook,13.3,16.0,Windows 10,1.16,104695.2,1800,3200,1.2,Intel,SSD,512,Intel,0
+563,Notebook,17.3,8.0,Windows 10,3.4,159786.72,1080,1920,2.8,Intel,SSD,256,Intel,1
+564,Notebook,15.6,8.0,Windows 10,2.5,44701.92,1080,1920,2.5,Intel,Both,1152,Intel,1
+565,Ultrabook,13.3,8.0,Windows 10,1.21,85194.72,2160,3840,1.6,Intel,SSD,128,Intel,0
+566,Notebook,15.6,4.0,Windows 10,1.93,51095.52,768,1366,2.6,Intel,HDD,500,Intel,0
+567,Notebook,15.6,8.0,Windows 10,2.2,39373.92,768,1366,2.5,Intel,HDD,1024,Intel,0
+568,Notebook,15.6,4.0,Windows 10,2.2,18328.32,1080,1920,1.1,Intel,HDD,500,Intel,0
+569,Notebook,14.0,4.0,Windows 10,2.02,52747.2,768,1366,2.5,Intel,HDD,500,Intel,0
+570,Workstation,17.3,8.0,Windows 10,3.14,99153.5472,900,1600,2.8,Intel,HDD,500,Intel,1
+571,Notebook,14.0,8.0,Windows 10,1.94,20725.92,768,1366,1.6,Intel,HDD,2048,Intel,0
+572,Notebook,15.6,6.0,Windows 10,1.95,34578.72,1080,1920,3.0,AMD,SSD,256,AMD,1
+573,Notebook,15.6,8.0,Windows 10,2.3,44222.4,1080,1920,2.5,Intel,SSD,256,Intel,0
+574,Notebook,15.6,4.0,Windows 10,2.05,36496.8,1080,1920,1.6,Intel,HDD,500,Intel,0
+575,Notebook,14.0,4.0,Windows 10,1.4,13266.72,1080,1920,1.44,Intel,SSD,32,Intel,0
+576,Ultrabook,14.0,16.0,Windows 10,1.24,99367.2,1080,1920,2.7,Intel,SSD,512,Intel,0
+577,Gaming,17.3,32.0,Windows 10,4.6,141884.63999999998,1080,1920,2.7,Intel,Both,1280,Intel,1
+578,Gaming,17.3,16.0,Windows 10,4.14,145401.12,1080,1920,2.9,Intel,Both,1536,Intel,1
+579,Notebook,15.6,8.0,Linux,2.2,39907.2528,1080,1920,2.7,Intel,SSD,256,Intel,1
+580,Notebook,14.0,4.0,Windows 10,1.45,20725.92,1080,1920,1.1,Intel,SSD,32,Intel,0
+581,Notebook,15.6,8.0,Windows 10,1.9,53733.94559999999,768,1366,2.6,Intel,HDD,500,Intel,0
+582,Notebook,13.3,4.0,Windows 10,1.49,38308.32,1080,1920,2.4,Intel,SSD,128,Intel,0
+583,Notebook,15.6,16.0,Windows 10,1.93,81912.13919999999,1080,1920,2.8,Intel,SSD,256,Intel,1
+584,Netbook,11.6,4.0,Chrome OS,1.26,15717.6,768,1366,1.6,Intel,Flash Storage,16,Intel,0
+585,Gaming,17.3,16.0,Windows 10,4.5,125154.72,1080,1920,2.7,Intel,Both,1152,Intel,1
+586,Gaming,17.3,16.0,Windows 10,3.78,79813.44,1080,1920,2.8,Intel,Both,1280,Intel,1
+587,Ultrabook,14.0,12.0,Windows 10,1.4,89137.44,1080,1920,2.6,Intel,SSD,256,Intel,0
+588,Notebook,15.6,12.0,Windows 10,2.2,32447.52,768,1366,1.8,Intel,HDD,1024,Intel,0
+589,Gaming,17.3,8.0,Windows 10,2.73,94305.6,1080,1920,2.5,Intel,Both,1152,Intel,1
+590,2 in 1 Convertible,15.6,8.0,Windows 10,2.2,39373.92,768,1366,2.5,Intel,HDD,1024,Intel,0
+591,Notebook,15.6,12.0,Windows 10,2.2,50562.72,1080,1920,3.6,AMD,SSD,512,AMD,1
+592,2 in 1 Convertible,11.6,4.0,Windows 10,1.39,32127.84,768,1366,1.0,Intel,SSD,128,Intel,0
+593,Notebook,15.6,16.0,Windows 10,2.5,90522.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+594,Notebook,17.3,4.0,No OS,2.8,28185.12,1080,1920,2.0,Intel,HDD,500,Intel,0
+595,Notebook,15.6,8.0,Windows 10,2.29,24455.52,768,1366,2.3,Intel,HDD,1024,Intel,0
+596,2 in 1 Convertible,13.3,8.0,Windows 10,1.37,107892.0,1080,1920,2.7,Intel,SSD,512,Intel,0
+597,Notebook,14.0,8.0,Windows 10,1.7,78534.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+598,2 in 1 Convertible,12.5,8.0,Windows 10,1.34,88977.59999999999,1080,1920,2.5,Intel,SSD,256,Intel,0
+599,Workstation,15.6,8.0,Windows 10,2.06,93932.64,1080,1920,2.8,Intel,SSD,256,Intel,1
+600,Notebook,15.6,8.0,Windows 10,1.84,64948.32,1080,1920,2.7,Intel,SSD,256,Intel,0
+601,Notebook,15.6,4.0,Windows 10,2.1,35616.6144,768,1366,2.4,Intel,HDD,500,Intel,0
+602,Notebook,14.0,4.0,Windows 10,1.6,17529.12,1080,1920,1.1,Intel,Flash Storage,32,Intel,0
+603,Gaming,17.3,16.0,Windows 10,4.14,117162.72,1080,1920,2.7,Intel,Both,1152,Intel,1
+604,Notebook,15.6,4.0,Linux,2.18,24775.2,768,1366,2.0,Intel,HDD,1024,Intel,1
+605,Gaming,15.6,16.0,Windows 10,1.8,122490.72,2160,3840,2.8,Intel,Both,2304,Intel,1
+606,Notebook,15.6,8.0,Windows 10,2.2,74538.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+607,Notebook,15.6,6.0,Windows 10,2.4,30049.92,1080,1920,2.5,Intel,HDD,1024,Intel,0
+608,2 in 1 Convertible,15.6,8.0,Windows 10,2.0,69210.72,1080,1920,2.8,Intel,SSD,256,Intel,0
+609,Notebook,14.0,4.0,Windows 10,1.6,18594.72,768,1366,1.6,Intel,Flash Storage,128,Intel,0
+610,Notebook,15.6,32.0,Windows 10,2.5,261018.72,2160,3840,3.1,Intel,SSD,1024,Intel,1
+611,Gaming,15.6,16.0,Windows 10,2.59,46833.6528,1080,1920,2.6,Intel,HDD,1024,Intel,1
+612,Notebook,15.6,4.0,Linux,2.18,23650.992,768,1366,2.0,Intel,HDD,1024,Intel,0
+613,Notebook,15.6,4.0,Linux,2.25,19127.52,768,1366,2.0,Intel,HDD,1024,Intel,0
+614,Notebook,15.6,4.0,Linux,1.93,46300.32,768,1366,2.6,Intel,HDD,500,Intel,0
+615,Gaming,17.3,8.0,Windows 10,3.0,62231.04,1080,1920,2.8,Intel,Both,1152,Intel,1
+616,Notebook,15.6,4.0,Linux,2.18,30316.32,1080,1920,2.5,Intel,SSD,128,Intel,1
+617,Ultrabook,15.6,8.0,Windows 10,1.84,74005.92,1080,1920,2.7,Intel,SSD,512,Intel,0
+618,Gaming,15.6,16.0,Windows 10,2.94,120831.5808,1080,1920,2.8,Intel,Both,1280,Intel,1
+619,2 in 1 Convertible,11.6,4.0,Chrome OS,1.25,20193.12,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+620,Notebook,14.0,8.0,Windows 10,2.31,59886.72,768,1366,2.6,Intel,SSD,256,Intel,0
+621,Notebook,14.0,8.0,Windows 7,1.65,78055.2,1080,1920,2.3,Intel,SSD,256,Intel,0
+622,Notebook,15.6,4.0,Windows 10,2.2,41345.28,1080,1920,1.6,Intel,HDD,1024,Intel,1
+623,Notebook,15.6,8.0,Windows 10,2.2,42570.72,768,1366,2.5,Intel,SSD,256,Intel,0
+624,Notebook,15.6,4.0,Windows 7,1.88,49656.96,768,1366,2.3,Intel,HDD,500,Intel,0
+625,Notebook,15.6,8.0,Windows 10,2.2,47898.72,1080,1920,2.7,Intel,HDD,1024,Intel,1
+626,Notebook,14.0,2.0,Windows 10,1.4,12733.92,1080,1920,1.44,Intel,Flash Storage,32,Intel,0
+627,Notebook,15.6,4.0,No OS,2.2,24935.04,1080,1920,2.5,Intel,SSD,128,Intel,0
+628,2 in 1 Convertible,13.3,6.0,Windows 10,1.5,34046.4528,1080,1920,2.5,Intel,HDD,1024,Intel,0
+629,Notebook,15.6,8.0,Windows 10,2.0,96969.6,1080,1920,2.8,Intel,SSD,256,Intel,1
+630,Ultrabook,14.0,16.0,Windows 10,1.1,101232.0,1080,1920,2.7,Intel,SSD,512,Intel,0
+631,Gaming,15.6,16.0,Windows 10,2.62,78801.12,1080,1920,2.8,Intel,Both,1280,Intel,1
+632,Notebook,15.6,4.0,Windows 10,1.8,44169.12,1080,1920,1.6,Intel,SSD,256,Intel,0
+633,Notebook,15.6,4.0,Windows 10,2.2,30849.12,1080,1920,2.0,Intel,HDD,1024,Intel,1
+634,Notebook,15.6,8.0,Windows 10,2.0,21258.72,768,1366,1.1,Intel,HDD,1024,Intel,0
+635,Notebook,15.6,8.0,Windows 10,1.99,48304.7136,1080,1920,2.5,Intel,HDD,1024,Intel,1
+636,Ultrabook,13.3,8.0,Windows 10,1.23,99580.32,1800,3200,1.6,Intel,SSD,256,Intel,0
+637,Notebook,14.0,2.0,Windows 10,1.42,13266.72,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+638,2 in 1 Convertible,13.3,8.0,Windows 10,1.37,93635.3376,1080,1920,2.7,Intel,SSD,256,Intel,0
+639,Notebook,15.6,16.0,Windows 10,2.06,127818.72,2160,3840,2.8,Intel,SSD,1024,Intel,1
+640,Gaming,15.6,8.0,Windows 10,2.5,59087.52,1080,1920,2.8,Intel,Both,1152,Intel,1
+641,Notebook,17.0,8.0,Windows 10,2.6,27753.552,900,1600,3.0,AMD,HDD,1024,AMD,1
+642,Ultrabook,14.0,16.0,Windows 10,1.14,130536.0,1080,1920,2.7,Intel,SSD,512,Intel,0
+643,Gaming,15.6,8.0,No OS,2.5,62284.32,1080,1920,2.8,Intel,HDD,1024,Intel,1
+644,Notebook,15.6,4.0,Windows 10,2.4,23976.0,768,1366,2.0,Intel,HDD,500,Intel,0
+645,Notebook,14.0,4.0,Windows 10,1.43,14598.72,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+646,Ultrabook,14.0,8.0,Windows 10,1.8,48964.32,1080,1920,2.5,Intel,SSD,256,Intel,0
+647,Gaming,14.0,16.0,Windows 10,1.95,138474.72,1080,1920,2.8,Intel,SSD,256,Intel,1
+648,Notebook,13.3,8.0,Windows 10,1.2,64628.64,1080,1920,2.3,Intel,SSD,256,Intel,0
+649,Ultrabook,12.5,8.0,Windows 10,1.36,84395.52,1080,1920,2.7,Intel,SSD,256,Intel,0
+650,Gaming,17.3,32.0,Windows 10,3.8,149130.72,1080,1920,2.7,Intel,SSD,512,Intel,1
+651,Gaming,15.6,8.0,Linux,2.4,37775.52,1080,1920,2.5,Intel,HDD,1024,Intel,1
+652,Ultrabook,13.3,8.0,Windows 10,1.2,77250.672,1080,1920,1.6,Intel,SSD,256,Intel,0
+653,Gaming,15.6,8.0,Windows 10,2.2,63499.10399999999,1080,1920,2.8,Intel,Both,1152,Intel,1
+654,Notebook,15.6,4.0,No OS,1.86,19441.872,768,1366,2.0,Intel,HDD,500,Intel,0
+655,Notebook,15.6,8.0,Windows 10,2.0,56689.92,1080,1920,2.5,Intel,HDD,500,Intel,0
+656,Notebook,15.6,8.0,Windows 10,2.2,48964.32,1080,1920,1.8,Intel,SSD,256,Intel,1
+657,Notebook,15.6,16.0,Windows 10,2.2,60472.8,1080,1920,1.8,Intel,Both,2304,Intel,1
+658,Gaming,15.6,8.0,Windows 10,3.31,63722.88,1080,1920,2.6,Intel,Both,1152,Intel,1
+659,Gaming,17.3,32.0,Windows 10,4.42,167691.8736,2160,3840,2.8,Intel,Both,1536,Intel,1
+660,Notebook,14.0,8.0,Windows 10,1.56,65481.12,1080,1920,2.4,Intel,SSD,256,Intel,0
+661,Notebook,15.6,4.0,Windows 10,2.2,22324.32,768,1366,1.1,Intel,HDD,500,Intel,0
+662,Notebook,15.6,4.0,Windows 10,2.2,28504.8,1080,1920,2.3,Intel,HDD,500,Intel,0
+663,Notebook,15.6,6.0,Windows 10,2.04,28717.92,1080,1920,2.0,Intel,HDD,1024,Intel,1
+664,Gaming,17.3,8.0,Windows 10,2.7,79215.1056,1080,1920,2.8,Intel,Both,1152,Intel,1
+665,Notebook,15.6,4.0,Windows 10,2.1,26533.44,768,1366,2.1,Intel,SSD,128,Intel,0
+666,Notebook,15.6,8.0,Windows 10,2.06,50882.4,1080,1920,2.5,Intel,HDD,1024,Intel,0
+667,Notebook,15.6,8.0,Windows 10,2.1,39693.6,1080,1920,2.7,Intel,HDD,1024,Intel,1
+668,Notebook,15.6,8.0,Windows 10,2.0,67026.23999999999,1080,1920,2.5,Intel,SSD,256,Intel,0
+669,Notebook,15.6,4.0,Linux,2.1,21951.36,768,1366,2.0,Intel,SSD,128,Intel,0
+670,Ultrabook,13.5,8.0,Windows 10 S,1.252,99519.048,1504,2256,2.8,Intel,SSD,256,Intel,0
+671,Notebook,15.6,8.0,Windows 10,1.9,43580.376,1080,1920,2.5,Intel,Both,1152,Intel,1
+672,2 in 1 Convertible,13.3,8.0,Windows 10,1.3,55091.52,1080,1920,2.5,Intel,SSD,256,Intel,0
+673,Notebook,15.6,4.0,Windows 10,2.2,18594.72,768,1366,2.2,AMD,SSD,128,AMD,1
+674,2 in 1 Convertible,14.0,4.0,Windows 10,1.63,37242.72,1080,1920,2.4,Intel,SSD,128,Intel,1
+675,Gaming,15.6,16.0,Windows 10,2.4,68944.31999999999,1080,1920,2.8,Intel,Both,1280,Intel,1
+676,Ultrabook,14.0,8.0,Windows 10,1.1,60472.8,1080,1920,2.5,Intel,SSD,256,Intel,0
+677,2 in 1 Convertible,11.6,8.0,Chrome OS,1.4,26373.6,768,1366,1.1,Intel,Flash Storage,64,Intel,0
+678,Ultrabook,15.6,8.0,Windows 10,1.09,122490.72,1080,1920,1.8,Intel,SSD,512,Intel,0
+679,Gaming,15.6,16.0,Windows 10,2.5,69210.72,1080,1920,2.5,Intel,SSD,256,Intel,1
+680,Gaming,15.6,8.0,Windows 10,2.2,53168.112,1080,1920,2.5,Intel,SSD,256,Intel,1
+681,Notebook,15.6,4.0,Windows 10,1.86,22324.32,768,1366,1.1,Intel,SSD,128,Intel,0
+682,Gaming,15.6,16.0,Windows 10,3.21,109277.28,1080,1920,2.5,Intel,Both,1152,Intel,1
+683,Notebook,17.3,4.0,Windows 10,2.5,37242.72,1080,1920,2.0,Intel,SSD,256,Intel,1
+684,2 in 1 Convertible,13.3,8.0,Windows 10,1.19,79866.72,1080,1920,1.8,Intel,SSD,512,Intel,0
+685,Gaming,15.6,16.0,Windows 10,3.49,149916.6,1080,1920,2.9,Intel,Both,1280,Intel,1
+686,Notebook,15.6,4.0,Windows 10,1.86,32639.8608,768,1366,2.5,Intel,HDD,500,Intel,1
+687,Notebook,15.6,4.0,Windows 10,2.2,29073.297599999994,768,1366,2.0,Intel,HDD,1024,Intel,1
+688,Notebook,17.3,6.0,Windows 10,2.65,30316.32,1080,1920,2.4,AMD,HDD,2048,AMD,1
+689,Notebook,15.6,4.0,Windows 10,2.1,16943.04,768,1366,1.6,Intel,HDD,500,Intel,0
+690,Notebook,14.0,4.0,Chrome OS,1.45,19980.0,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+691,Notebook,14.0,4.0,Windows 10,1.7,37242.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+692,Workstation,17.3,8.0,Windows 10,3.14,101657.7072,1080,1920,2.8,Intel,HDD,500,Intel,1
+693,2 in 1 Convertible,14.0,8.0,Windows 10,1.42,137995.19999999998,1440,2560,2.7,Intel,SSD,256,Intel,0
+694,Notebook,13.3,8.0,Windows 10,1.5,51841.44,1080,1920,2.5,Intel,SSD,256,Intel,0
+695,Netbook,11.6,4.0,Windows 10,1.4,14332.32,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+696,2 in 1 Convertible,14.0,16.0,Windows 10,1.38,93186.72,1080,1920,2.7,Intel,SSD,512,Intel,0
+697,2 in 1 Convertible,12.5,4.0,Chrome OS,1.2,35644.32,1080,1920,0.9,Intel,Flash Storage,64,Intel,0
+698,Ultrabook,13.3,16.0,Windows 10,1.36,100006.56,1080,1920,2.5,Intel,SSD,512,Intel,0
+699,Notebook,15.6,4.0,Windows 10,2.1,36709.92,1080,1920,2.7,Intel,HDD,500,Intel,1
+700,Gaming,15.6,8.0,Windows 10,2.56,43636.32,1080,1920,2.5,Intel,HDD,1024,Intel,1
+701,Notebook,15.6,4.0,Windows 10,2.2,21258.72,1080,1920,2.9,AMD,SSD,256,AMD,1
+702,Notebook,15.6,8.0,Windows 10,2.2,22857.12,768,1366,3.6,AMD,HDD,1024,AMD,1
+703,Notebook,15.6,4.0,Windows 10,2.1,33110.856,1080,1920,2.5,Intel,Both,2048,Intel,0
+704,Notebook,15.6,4.0,No OS,1.9,23976.0,768,1366,2.0,Intel,HDD,500,Intel,0
+705,Notebook,15.6,8.0,Windows 10,2.18,42357.6,1080,1920,2.5,Intel,SSD,256,Intel,0
+706,2 in 1 Convertible,13.3,8.0,Windows 10,1.6,53226.72,1080,1920,1.6,Intel,SSD,256,Intel,0
+707,Workstation,15.6,16.0,Windows 7,2.18,98834.4,1080,1920,2.5,Intel,SSD,512,Intel,1
+708,Notebook,14.0,8.0,Windows 10,1.8,63456.48,1080,1920,2.3,Intel,SSD,256,Intel,0
+709,Notebook,17.3,6.0,Windows 10,2.71,34898.932799999995,1080,1920,2.5,AMD,HDD,2048,AMD,1
+710,Gaming,15.6,8.0,Windows 10,2.5,66546.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+711,Notebook,14.0,8.0,Linux,1.64,58021.92,1080,1920,2.8,Intel,SSD,256,Intel,1
+712,Notebook,15.6,8.0,Linux,1.98,38681.28,1080,1920,2.5,Intel,HDD,1024,Intel,0
+713,Notebook,14.0,4.0,Windows 10,1.5,15877.44,1080,1920,1.1,Intel,Flash Storage,32,Intel,0
+714,Notebook,15.6,16.0,Windows 10,1.93,76012.44480000001,1080,1920,2.6,Intel,SSD,512,Intel,0
+715,Notebook,14.0,8.0,Windows 10,1.87,45664.6896,1080,1920,2.5,Intel,SSD,256,Intel,1
+716,Notebook,15.6,8.0,Windows 10,1.9,62817.12,1080,1920,2.6,Intel,SSD,256,Intel,0
+717,Notebook,15.6,4.0,Windows 10,2.19,15877.44,768,1366,2.0,AMD,HDD,500,AMD,1
+718,Notebook,14.0,4.0,Windows 10,1.4,14119.2,1200,1920,1.92,Intel,HDD,32,Intel,0
+719,Notebook,17.3,8.0,Windows 10,2.63,63936.0,1080,1920,2.7,Intel,SSD,256,Intel,1
+720,Ultrabook,14.0,8.0,Windows 10,1.17,89864.1792,1440,2560,2.5,Intel,SSD,512,Intel,0
+721,2 in 1 Convertible,13.3,8.0,Windows 10,1.58,44574.048,768,1366,2.5,Intel,SSD,256,Intel,0
+722,Ultrabook,14.0,8.0,Windows 10,1.32,79866.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+723,Gaming,17.3,32.0,Windows 10,4.36,194972.832,2160,3840,2.8,Intel,Both,2048,Intel,1
+724,Gaming,17.3,8.0,Windows 10,2.7,71847.0144,1080,1920,2.8,Intel,Both,1152,Intel,1
+725,Notebook,15.6,4.0,No OS,1.9,26101.872,768,1366,2.5,Intel,HDD,1024,Intel,0
+726,Notebook,15.6,8.0,Windows 10,2.2,38308.32,1080,1920,1.6,Intel,Both,1152,Intel,1
+727,2 in 1 Convertible,13.3,4.0,Windows 10,1.71,34578.72,1080,1920,2.4,Intel,HDD,1024,Intel,0
+728,Notebook,15.6,8.0,Linux,2.32,31409.6256,768,1366,2.5,Intel,HDD,1024,Intel,1
+729,Notebook,15.6,4.0,Windows 10,2.1,26053.92,1080,1920,3.0,AMD,HDD,1024,AMD,1
+730,Gaming,17.3,16.0,Windows 10,4.2,103096.8,1080,1920,2.6,Intel,Both,1152,Intel,1
+731,Notebook,15.6,12.0,Windows 10,2.25,34578.72,768,1366,2.5,Intel,HDD,1024,Intel,0
+732,Notebook,15.6,6.0,Windows 10,2.1,34632.0,1080,1920,3.0,AMD,Both,1152,AMD,1
+733,Notebook,15.6,4.0,Windows 10,2.4,29783.52,768,1366,2.5,Intel,HDD,500,Intel,0
+734,Notebook,13.3,8.0,Windows 10,1.44,51148.8,1080,1920,2.5,Intel,SSD,256,Intel,0
+735,Notebook,15.6,4.0,Windows 10,1.85,41505.12,1080,1920,2.7,Intel,HDD,1024,Intel,0
+736,Workstation,15.6,16.0,Windows 10,2.6,128884.32,1080,1920,2.8,Intel,SSD,256,Intel,1
+737,2 in 1 Convertible,13.3,8.0,Windows 10,1.55,35111.52,1080,1920,1.6,Intel,HDD,1024,Intel,0
+738,Gaming,15.6,16.0,Windows 10,1.8,111593.8944,1080,1920,2.8,Intel,Both,1280,Intel,1
+739,Notebook,15.6,4.0,Windows 10,2.4,21887.424,768,1366,2.0,Intel,HDD,500,Intel,0
+740,Notebook,15.6,8.0,Windows 10,2.0,64308.96,1080,1920,2.7,Intel,Both,1152,Intel,1
+741,Notebook,15.6,8.0,Windows 10,2.0,35431.2,768,1366,2.0,Intel,SSD,256,Intel,0
+742,Notebook,14.0,8.0,Windows 10,1.25,81784.8,1080,1920,2.5,Intel,SSD,256,Intel,0
+743,2 in 1 Convertible,14.0,8.0,Windows 10,1.7,53226.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+744,Workstation,15.6,16.0,Windows 10,2.5,175770.72,2160,3840,2.8,Intel,SSD,1024,Intel,1
+745,Notebook,14.0,2.0,Chrome OS,1.68,17582.399999999998,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+746,Ultrabook,13.3,16.0,Windows 10,0.81,87858.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+747,Notebook,15.6,8.0,Windows 10,1.86,28717.92,1080,1920,2.0,Intel,SSD,256,Intel,0
+748,Notebook,14.0,8.0,Windows 10,1.6,60031.1088,768,1366,2.5,Intel,SSD,256,Intel,0
+749,Workstation,17.3,16.0,Windows 7,3.0,233845.92,1080,1920,2.9,Intel,SSD,256,Intel,1
+750,Netbook,11.6,4.0,Windows 10,1.4,25308.0,768,1366,1.6,Intel,SSD,128,Intel,0
+751,Notebook,15.6,8.0,Windows 10,1.84,101232.0,1080,1920,2.4,Intel,SSD,256,Intel,0
+752,Notebook,15.6,4.0,No OS,2.45,30849.12,768,1366,2.3,Intel,HDD,1024,Intel,1
+753,Ultrabook,14.0,4.0,Windows 10,1.7,58394.88,1080,1920,2.3,Intel,SSD,180,Intel,0
+754,Notebook,15.6,4.0,Windows 10,2.37,45282.672,768,1366,2.7,Intel,SSD,256,Intel,0
+755,2 in 1 Convertible,13.3,8.0,Windows 10,1.3,63882.72,1800,3200,1.8,Intel,SSD,256,Intel,0
+756,Notebook,15.6,8.0,Windows 10,2.2,58554.72,1080,1920,2.5,Intel,Both,1152,Intel,1
+757,Workstation,15.6,8.0,Windows 7,2.59,83170.08,1080,1920,2.6,Intel,SSD,256,Intel,1
+758,Gaming,15.6,16.0,Windows 10,4.42,152859.7872,2160,3840,2.8,Intel,Both,1280,Intel,1
+759,Notebook,15.6,4.0,Windows 10,2.1,31914.72,768,1366,2.5,Intel,SSD,256,Intel,0
+760,Gaming,15.6,8.0,Windows 10,2.5,55837.44,1080,1920,2.8,Intel,Both,1152,Intel,1
+761,Ultrabook,12.5,16.0,Windows 10,1.18,99047.52,1080,1920,2.8,Intel,SSD,256,Intel,0
+762,Ultrabook,12.3,8.0,Chrome OS,1.1,83063.52,1600,2400,1.2,Intel,SSD,256,Intel,0
+763,Ultrabook,13.3,8.0,Windows 10,1.2,60153.12,1800,3200,2.5,Intel,SSD,256,Intel,0
+764,Notebook,13.3,4.0,Windows 10,1.65,45234.72,768,1366,2.0,Intel,HDD,500,Intel,0
+765,Notebook,13.3,4.0,Windows 10,1.6,34898.4,768,1366,2.3,Intel,SSD,128,Intel,0
+766,Notebook,17.3,4.0,Windows 10,2.8,25059.715199999995,768,1366,1.1,Intel,HDD,1024,Intel,1
+767,Gaming,15.6,16.0,Windows 10,2.72,58554.72,2160,3840,2.6,Intel,Both,1152,Intel,1
+768,Ultrabook,13.3,8.0,Windows 10,1.31,85194.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+769,Notebook,15.6,4.0,Linux,2.1,15877.44,768,1366,1.1,Intel,HDD,1024,Intel,0
+770,Notebook,15.6,16.0,Windows 10,2.3,62938.0656,1080,1920,2.7,Intel,SSD,256,Intel,1
+771,2 in 1 Convertible,15.0,16.0,Windows 10,1.71,95850.72,1080,1920,2.7,Intel,SSD,256,Intel,1
+772,Notebook,14.0,4.0,Windows 10,1.75,54345.6,768,1366,2.3,Intel,SSD,128,Intel,0
+773,Gaming,15.6,8.0,Windows 10,2.62,58554.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+774,Ultrabook,12.5,4.0,Windows 10,1.26,66280.31999999999,768,1366,2.3,Intel,SSD,256,Intel,0
+775,2 in 1 Convertible,15.6,12.0,Windows 10,2.3,44701.92,1080,1920,2.7,Intel,HDD,2048,Intel,1
+776,Notebook,15.6,16.0,Windows 7,2.5,126273.6,2160,3840,2.7,Intel,SSD,512,Intel,1
+777,Notebook,14.0,4.0,Windows 10,1.8,33886.08,1080,1920,2.4,Intel,SSD,128,Intel,0
+778,Gaming,14.0,16.0,Windows 10,1.95,154458.72,1080,1920,2.8,Intel,SSD,512,Intel,1
+779,Notebook,15.6,8.0,Windows 10,2.0,31003.632,1080,1920,1.1,Intel,SSD,128,Intel,0
+780,Gaming,17.3,32.0,Windows 10,4.42,191211.264,1080,1920,2.8,Intel,Both,2048,Intel,1
+781,Gaming,17.3,16.0,Windows 10,4.3,125208.0,1080,1920,2.6,Intel,Both,1280,Intel,1
+782,Ultrabook,14.0,16.0,Windows 10,1.47,93985.92,1080,1920,2.6,Intel,SSD,512,Intel,1
+783,Notebook,15.6,8.0,No OS,2.2,17529.12,768,1366,1.6,Intel,HDD,1024,Intel,0
+784,Ultrabook,14.0,16.0,Windows 10,1.7,122490.72,1080,1920,2.7,Intel,SSD,512,Intel,0
+785,Gaming,14.0,16.0,Windows 10,1.6,100752.48,1080,1920,2.8,Intel,Both,1280,Intel,1
+786,Gaming,15.6,8.0,Windows 10,2.2,58021.92,1080,1920,2.5,Intel,Both,1152,Intel,1
+787,Gaming,15.6,4.0,Windows 10,2.4,53226.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+788,Gaming,17.3,16.0,Windows 10,4.2,122490.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+789,Gaming,15.6,8.0,Windows 10,2.62,52480.8,1080,1920,2.5,Intel,SSD,256,Intel,1
+790,Gaming,15.6,8.0,Windows 10,2.24,71341.92,1080,1920,2.8,Intel,Both,1152,Intel,1
+791,Notebook,14.0,4.0,Windows 10,1.22,10810.512,1080,1920,1.1,Intel,Flash Storage,32,Intel,0
+792,2 in 1 Convertible,13.3,8.0,Windows 10,1.37,104961.6,1080,1920,2.7,Intel,SSD,512,Intel,0
+793,2 in 1 Convertible,15.6,8.0,Windows 10,2.08,51095.52,1080,1920,2.5,Intel,SSD,256,Intel,1
+794,Ultrabook,12.0,8.0,Mac OS X,0.92,62071.2,1440,2304,1.2,Intel,Flash Storage,512,Intel,0
+795,2 in 1 Convertible,14.0,8.0,Windows 10,1.42,124142.4,1440,2560,2.5,Intel,SSD,256,Intel,0
+796,Notebook,14.0,4.0,Windows 10,1.63,15930.72,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+797,Notebook,15.6,8.0,Windows 10,1.95,43156.8,768,1366,2.5,Intel,SSD,128,Intel,0
+798,2 in 1 Convertible,13.9,8.0,Windows 10,1.38,71874.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+799,Notebook,15.6,8.0,Windows 10,2.0,39373.92,1080,1920,2.0,Intel,SSD,256,Intel,1
+800,Workstation,15.6,8.0,Windows 10,3.14,110017.872,1080,1920,2.8,Intel,SSD,256,Intel,1
+801,Notebook,15.6,8.0,Windows 10,2.37,58554.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+802,Ultrabook,13.3,8.0,Windows 10,1.29,79866.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+803,Notebook,15.6,8.0,Windows 10,2.06,93186.72,2160,3840,2.5,Intel,SSD,256,Intel,1
+804,Netbook,11.6,4.0,Windows 10,1.63,39640.32,768,1366,1.1,Intel,SSD,128,Intel,0
+805,Netbook,12.5,8.0,Windows 10,1.26,74005.92,768,1366,2.6,Intel,SSD,256,Intel,0
+806,Notebook,15.6,4.0,Windows 10,2.1,41558.4,768,1366,2.3,Intel,HDD,500,Intel,0
+807,Notebook,15.6,8.0,Windows 10,2.04,33513.119999999995,768,1366,2.5,AMD,HDD,2048,AMD,1
+808,Gaming,15.6,16.0,Windows 10,2.62,89457.12,2160,3840,2.8,Intel,SSD,512,Intel,1
+809,Notebook,15.6,4.0,Windows 10,2.4,32447.52,1080,1920,2.5,Intel,HDD,1024,Intel,1
+810,Gaming,17.3,12.0,Windows 10,3.74,93186.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+811,Gaming,17.3,16.0,Windows 10,2.9,128671.2,1080,1920,2.8,Intel,Both,1536,Intel,1
+812,Ultrabook,13.3,8.0,Windows 10,0.81,79866.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+813,Notebook,15.6,8.0,Windows 10,1.98,51202.08,1080,1920,2.7,Intel,HDD,1024,Intel,1
+814,Notebook,15.6,8.0,Windows 10,2.18,42081.0768,1080,1920,2.5,Intel,SSD,256,Intel,1
+815,Ultrabook,14.0,8.0,Windows 10,1.32,99047.52,1080,1920,2.7,Intel,SSD,256,Intel,0
+816,Ultrabook,12.5,16.0,Windows 10,1.29,95850.72,2160,3840,2.5,Intel,SSD,512,Intel,0
+817,Netbook,11.6,4.0,Chrome OS,1.23,20512.8,768,1366,1.6,Intel,Flash Storage,16,Intel,0
+818,Gaming,17.3,16.0,Windows 10,4.36,133467.4656,1080,1920,2.8,Intel,Both,1152,Intel,1
+819,Notebook,14.0,4.0,Windows 10,1.76,40226.4,768,1366,2.3,Intel,HDD,500,Intel,0
+820,Notebook,15.6,4.0,Windows 10,2.1,26101.872,768,1366,2.0,Intel,HDD,500,Intel,0
+821,Ultrabook,14.0,4.0,Windows 10,1.25,58075.2,768,1366,2.5,Intel,SSD,128,Intel,0
+822,Ultrabook,14.0,8.0,Windows 10,1.13,133146.72,1080,1920,2.7,Intel,SSD,512,Intel,0
+823,Gaming,15.6,8.0,Windows 10,2.4,63882.72,1080,1920,2.5,Intel,SSD,256,Intel,1
+824,Ultrabook,14.0,8.0,Windows 10,1.13,99900.0,1080,1920,2.5,Intel,Flash Storage,256,Intel,0
+825,Notebook,14.0,4.0,Windows 10,1.75,26586.72,768,1366,2.1,Intel,SSD,128,Intel,0
+826,2 in 1 Convertible,13.3,8.0,Windows 10,1.1,72354.23999999999,1080,1920,2.5,Intel,SSD,256,Intel,0
+827,Notebook,14.0,4.0,Windows 10,1.76,31168.8,768,1366,2.0,Intel,HDD,500,Intel,0
+828,Netbook,11.6,4.0,Chrome OS,1.35,18914.4,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+829,Notebook,14.0,8.0,Windows 10,1.5,32980.32,1080,1920,2.4,Intel,SSD,128,Intel,0
+830,Gaming,17.3,32.0,Windows 10,3.49,292986.72,2160,3840,2.9,Intel,SSD,512,Intel,1
+831,Ultrabook,14.0,16.0,Windows 10,1.1,111834.72,1440,2560,2.6,Intel,SSD,512,Intel,0
+832,Notebook,15.6,4.0,Linux,2.1,27652.32,1080,1920,2.5,Intel,HDD,1024,Intel,1
+833,Notebook,14.0,8.0,Windows 10,1.7,63190.08,1080,1920,2.3,Intel,SSD,256,Intel,0
+834,Notebook,14.0,8.0,Windows 10,1.32,87912.0,1080,1920,2.6,Intel,SSD,256,Intel,0
+835,Gaming,15.6,16.0,Windows 10,3.21,147832.28639999998,1080,1920,2.8,Intel,Both,1280,Intel,1
+836,Gaming,17.3,16.0,Windows 10,2.9,128884.32,1080,1920,2.8,Intel,Both,1280,Intel,1
+837,Notebook,15.6,4.0,Windows 10,2.0,35644.32,768,1366,2.4,Intel,HDD,500,Intel,0
+838,Notebook,14.0,4.0,Chrome OS,1.5,17316.0,768,1366,1.6,Intel,Flash Storage,16,Intel,0
+839,Notebook,15.6,8.0,Windows 10,2.3,31435.2,1080,1920,2.5,Intel,HDD,128,Intel,0
+840,Gaming,17.3,16.0,Windows 10,2.73,95850.72,1080,1920,2.6,Intel,Both,1536,Intel,1
+841,Gaming,17.3,32.0,Windows 10,4.42,163723.57919999998,1080,1920,2.8,Intel,Both,1536,Intel,1
+842,Notebook,17.3,8.0,Windows 10,2.63,48484.8,900,1600,2.5,Intel,HDD,1024,Intel,1
+843,Notebook,15.6,8.0,Windows 10,2.18,38041.3872,768,1366,2.5,Intel,SSD,128,Intel,0
+844,Ultrabook,14.0,8.0,Windows 7,1.54,99633.6,1080,1920,2.5,Intel,SSD,512,Intel,0
+845,Notebook,15.6,4.0,Windows 10,2.18,39373.92,1080,1920,2.7,Intel,SSD,256,Intel,1
+846,2 in 1 Convertible,11.6,4.0,Chrome OS,1.4,32767.2,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+847,Ultrabook,13.3,8.0,Windows 10,1.45,54665.28,1080,1920,2.3,Intel,SSD,512,Intel,1
+848,2 in 1 Convertible,13.3,8.0,Windows 10,1.28,121318.56,1080,1920,2.5,Intel,SSD,256,Intel,0
+849,Ultrabook,14.0,8.0,Windows 10,1.54,78215.04,1080,1920,2.5,Intel,SSD,512,Intel,0
+850,Notebook,15.6,4.0,No OS,1.86,15930.72,768,1366,1.6,Intel,SSD,128,Intel,0
+851,Gaming,15.6,16.0,Windows 10,2.1,101178.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+852,Notebook,17.3,8.0,Linux,2.83,46087.2,1080,1920,2.7,Intel,HDD,1024,Intel,1
+853,Ultrabook,14.0,8.0,Windows 10,1.96,101391.84,1080,1920,2.8,Intel,SSD,256,Intel,1
+854,Notebook,15.6,8.0,Windows 10,2.3,41931.36,1080,1920,2.7,Intel,SSD,256,Intel,1
+855,Notebook,15.6,8.0,Windows 10,1.9,50349.6,1080,1920,2.5,Intel,SSD,128,Intel,0
+856,Notebook,15.6,4.0,Windows 10,2.0,23922.72,768,1366,1.1,Intel,HDD,1024,Intel,0
+857,2 in 1 Convertible,13.3,8.0,Windows 10,1.28,136343.52,1080,1920,2.8,Intel,SSD,256,Intel,0
+858,Notebook,13.3,8.0,Windows 10,1.62,34578.72,1080,1920,2.3,Intel,HDD,1024,Intel,0
+859,Notebook,15.6,4.0,No OS,2.2,24988.32,1080,1920,2.0,Intel,HDD,1024,Intel,0
+860,Notebook,15.6,8.0,Windows 10,2.3,45323.1648,1080,1920,2.5,Intel,HDD,1024,Intel,0
+861,Notebook,15.6,8.0,Windows 10,1.84,71874.72,1080,1920,2.6,Intel,SSD,256,Intel,1
+862,Notebook,13.3,4.0,Windows 10,1.05,68464.8,1080,1920,2.5,Intel,SSD,128,Intel,0
+863,Gaming,15.6,8.0,No OS,2.5,54185.76,1080,1920,2.5,Intel,HDD,1024,Intel,1
+864,Ultrabook,13.3,16.0,Windows 10,1.29,119347.2,1800,3200,2.5,Intel,SSD,512,Intel,0
+865,Notebook,15.6,4.0,Windows 10,2.07,48484.8,1080,1920,2.3,Intel,HDD,500,Intel,0
+866,Ultrabook,13.3,8.0,Windows 10,1.2,58341.6,768,1366,2.3,Intel,SSD,256,Intel,0
+867,2 in 1 Convertible,13.3,8.0,Windows 10,1.37,103896.0,1080,1920,2.7,Intel,SSD,256,Intel,0
+868,Notebook,14.0,8.0,Windows 10,1.56,48058.56,1080,1920,2.5,Intel,SSD,256,Intel,0
+869,Workstation,15.6,8.0,Windows 10,2.23,94731.84,1080,1920,2.8,Intel,HDD,1024,Intel,1
+870,Notebook,15.6,4.0,Windows 10,2.38,56210.4,768,1366,2.5,Intel,HDD,500,Intel,0
+871,Notebook,15.6,4.0,No OS,2.2,25521.12,1080,1920,2.0,Intel,HDD,1024,Intel,1
+872,Notebook,15.6,8.0,Windows 10,2.0,73952.64,1080,1920,2.7,Intel,SSD,256,Intel,0
+873,Notebook,13.3,4.0,Windows 10,1.44,39160.8,1080,1920,2.4,Intel,SSD,180,Intel,0
+874,Ultrabook,15.0,16.0,Windows 10,1.23,98514.72,1080,1920,2.7,Intel,SSD,256,Intel,1
+875,Ultrabook,12.5,8.0,Windows 10,1.6,90043.2,1080,1920,2.8,Intel,SSD,256,Intel,0
+876,Notebook,15.6,4.0,Linux,2.0,21258.1872,768,1366,1.1,Intel,HDD,1024,Intel,0
+877,Ultrabook,13.3,8.0,Windows 10,1.28,49816.8,1080,1920,2.3,Intel,SSD,256,Intel,1
+878,Notebook,15.6,4.0,Windows 10,2.18,48618.0,1080,1920,2.5,Intel,Both,1152,Intel,1
+879,Notebook,15.6,4.0,Windows 10,2.04,44701.92,1080,1920,2.5,Intel,SSD,256,Intel,0
+880,2 in 1 Convertible,13.3,4.0,Windows 10,1.28,90576.0,1080,1920,2.5,Intel,SSD,256,Intel,0
+881,2 in 1 Convertible,15.6,4.0,Windows 10,2.3,36486.14399999999,768,1366,2.5,Intel,HDD,500,Intel,0
+882,Notebook,14.1,4.0,Windows 10,1.65,18541.44,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+883,Notebook,15.6,8.0,Windows 10,2.2,35644.32,1080,1920,2.5,Intel,HDD,1024,Intel,1
+884,Notebook,15.6,4.0,Windows 10,2.2,19660.32,768,1366,1.6,Intel,HDD,500,Intel,0
+885,2 in 1 Convertible,13.3,4.0,Windows 10,1.28,95850.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+886,Notebook,15.6,4.0,Linux,2.18,24279.696,768,1366,2.0,Intel,HDD,1024,Intel,1
+887,Gaming,17.3,12.0,Windows 10,2.2,72988.272,1080,1920,2.5,Intel,Both,1152,Intel,1
+888,Netbook,11.6,4.0,Chrome OS,1.25,15824.16,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+889,Notebook,17.3,4.0,Windows 10,2.8,20193.12,900,1600,2.2,AMD,HDD,500,AMD,1
+890,Notebook,14.0,4.0,Windows 10,1.95,67399.2,1080,1920,2.5,Intel,SSD,128,Intel,0
+891,2 in 1 Convertible,13.3,16.0,Windows 10,1.42,74538.72,1800,3200,2.7,Intel,SSD,256,Intel,0
+892,Ultrabook,15.0,8.0,Windows 10,1.17,90522.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+893,Ultrabook,14.0,8.0,Windows 10,1.32,95850.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+894,Gaming,17.3,16.0,Windows 10,2.43,141138.72,2160,3840,2.6,Intel,Both,2560,Intel,1
+895,Notebook,13.3,8.0,Windows 10,1.05,78588.0,1080,1920,2.5,Intel,SSD,256,Intel,0
+896,Gaming,15.6,8.0,Linux,2.62,49497.12,1080,1920,2.8,Intel,HDD,1024,Intel,1
+897,Notebook,15.6,8.0,Windows 10,2.04,47952.0,1080,1920,2.7,Intel,HDD,1024,Intel,1
+898,Notebook,15.6,4.0,Windows 10,2.18,32713.92,768,1366,2.0,Intel,HDD,1024,Intel,1
+899,Notebook,15.6,8.0,Windows 10,1.9,49816.8,1080,1920,2.6,Intel,HDD,500,Intel,0
+900,2 in 1 Convertible,13.3,8.0,Windows 10,1.24,107257.968,1800,3200,1.3,Intel,SSD,512,Intel,0
+901,Gaming,17.3,32.0,Windows 10,3.58,68145.12,1080,1920,2.7,Intel,SSD,512,Intel,1
+902,2 in 1 Convertible,13.3,16.0,Windows 10,1.22,87858.72,1080,1920,1.3,Intel,SSD,256,Intel,0
+903,Ultrabook,14.0,8.0,Windows 10,1.13,109170.72,1080,1920,2.7,Intel,Flash Storage,256,Intel,0
+904,Notebook,15.6,8.0,Windows 10,1.95,104588.1072,1080,1920,2.5,Intel,SSD,512,Intel,0
+905,Ultrabook,15.6,16.0,Windows 10,1.08,111834.72,1080,1920,2.7,Intel,SSD,512,Intel,0
+906,Netbook,12.5,8.0,Windows 10,1.26,79014.23999999999,1080,1920,2.7,Intel,SSD,512,Intel,0
+907,Notebook,15.6,4.0,Chrome OS,2.2,19127.52,1080,1920,1.5,Intel,Flash Storage,16,Intel,0
+908,Notebook,15.6,8.0,Windows 10,2.6,42037.92,1080,1920,2.3,Intel,Both,1152,Intel,1
+909,Ultrabook,14.0,8.0,Windows 10,0.98,101178.72,1080,1920,2.7,Intel,SSD,512,Intel,0
+910,Notebook,14.0,8.0,Windows 10,1.6,64202.4,1080,1920,2.8,Intel,SSD,256,Intel,0
+911,Ultrabook,12.5,8.0,Windows 10,1.09,165168.0,2160,3840,1.2,Intel,SSD,240,Intel,0
+912,Notebook,15.6,6.0,Windows 10,2.2,42037.92,1080,1920,2.7,Intel,SSD,256,Intel,1
+913,Notebook,15.6,8.0,Windows 10,2.04,54291.78719999999,1080,1920,2.7,Intel,SSD,256,Intel,1
+914,Notebook,15.6,4.0,Windows 10,2.4,26586.72,1080,1920,2.4,Intel,HDD,1024,Intel,0
+915,Notebook,13.3,4.0,Windows 10,1.44,46939.68,1080,1920,2.5,Intel,SSD,128,Intel,0
+916,Notebook,13.3,8.0,Windows 10,1.49,51148.8,1080,1920,2.5,Intel,SSD,256,Intel,0
+917,Gaming,17.3,16.0,Windows 10,2.7,85194.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+918,Gaming,15.6,16.0,Windows 10,2.6,71874.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+919,Gaming,15.6,8.0,Windows 10,2.2,59668.804800000005,1080,1920,2.5,Intel,Both,1152,Intel,1
+920,Notebook,15.6,4.0,Windows 10,2.18,36496.2672,768,1366,2.5,Intel,HDD,1024,Intel,1
+921,Ultrabook,15.6,8.0,Windows 10,1.84,69103.62719999999,1080,1920,2.5,Intel,SSD,256,Intel,1
+922,Ultrabook,13.3,8.0,Windows 10,1.39,61218.72,1800,3200,2.7,Intel,SSD,256,Intel,0
+923,Notebook,15.6,16.0,Windows 10,2.4,105228.0,1080,1920,2.6,Intel,SSD,256,Intel,1
+924,2 in 1 Convertible,13.3,8.0,Windows 10,1.37,97236.0,1080,1920,2.5,Intel,SSD,512,Intel,0
+925,Notebook,15.6,4.0,Windows 10,1.95,38889.072,768,1366,2.3,Intel,HDD,500,Intel,0
+926,Ultrabook,12.5,8.0,Windows 10,1.36,87912.0,1080,1920,2.7,Intel,SSD,256,Intel,0
+927,Notebook,15.6,8.0,Windows 10,2.31,62071.2,1080,1920,2.3,Intel,SSD,256,Intel,0
+928,Notebook,15.6,4.0,Windows 10,2.18,37725.4368,768,1366,2.5,Intel,HDD,1024,Intel,0
+929,Notebook,14.0,4.0,Windows 10,1.95,61218.72,768,1366,2.3,Intel,HDD,500,Intel,0
+930,Notebook,15.6,4.0,Windows 10,2.2,16463.52,768,1366,1.1,Intel,HDD,1024,Intel,0
+931,Ultrabook,12.5,4.0,Windows 10,1.26,84129.12,1080,1920,2.3,Intel,HDD,500,Intel,0
+932,Notebook,15.6,4.0,No OS,1.86,15392.592,768,1366,1.6,Intel,HDD,1024,Intel,0
+933,2 in 1 Convertible,13.3,16.0,Windows 10,1.3,95850.72,1800,3200,2.2,Intel,SSD,1024,Intel,0
+934,Notebook,14.0,4.0,Windows 10,1.47,58874.4,1080,1920,2.3,Intel,SSD,128,Intel,0
+935,Netbook,12.5,8.0,Windows 10,1.26,88924.31999999999,1080,1920,2.3,Intel,SSD,256,Intel,0
+936,Notebook,15.6,4.0,Windows 10,2.18,29762.208,768,1366,2.0,Intel,HDD,1024,Intel,0
+937,Gaming,15.6,8.0,Windows 10,2.2,63882.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+938,Ultrabook,14.0,8.0,Windows 10,1.36,87325.92,1080,1920,2.5,Intel,SSD,256,Intel,0
+939,Gaming,17.3,16.0,Windows 10,4.36,146946.24,1440,2560,2.7,Intel,Both,1536,Intel,1
+940,Gaming,17.3,8.0,Windows 10,2.75,74538.72,1080,1920,2.3,Intel,Both,1152,Intel,1
+941,Notebook,17.3,4.0,Windows 10,2.8,28238.4,900,1600,1.6,Intel,HDD,1024,Intel,1
+942,Notebook,15.6,4.0,Windows 10,2.23,32980.32,768,1366,2.5,Intel,HDD,500,Intel,0
+943,Notebook,15.6,8.0,Windows 10,2.2,59620.32,768,1366,2.3,Intel,SSD,256,Intel,0
+944,2 in 1 Convertible,11.3,8.0,Windows 10,1.1,69210.72,1080,1920,1.2,Intel,SSD,256,Intel,0
+945,Gaming,15.6,16.0,Windows 10,2.5,53226.72,1080,1920,2.1,AMD,Both,1536,AMD,1
+946,Ultrabook,12.5,8.0,Windows 10,1.36,78438.816,1080,1920,2.5,Intel,SSD,256,Intel,0
+947,Notebook,15.6,8.0,No OS,2.2,36496.8,1080,1920,2.7,Intel,HDD,1024,Intel,1
+948,Notebook,17.3,4.0,Windows 10,2.36,35111.52,900,1600,2.0,Intel,HDD,1024,Intel,1
+949,Notebook,14.0,4.0,Chrome OS,1.68,18594.72,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+950,Workstation,15.6,8.0,Windows 10,2.0,119826.72,1080,1920,2.7,Intel,SSD,8,Intel,1
+951,Ultrabook,14.0,8.0,Windows 10,1.36,94572.0,1080,1920,2.8,Intel,SSD,256,Intel,0
+952,Notebook,13.3,8.0,Windows 7,1.2,77788.8,1080,1920,2.3,Intel,SSD,256,Intel,0
+953,2 in 1 Convertible,12.5,8.0,Chrome OS,1.2,61751.52,1080,1920,1.2,Intel,Flash Storage,64,Intel,0
+954,Ultrabook,14.0,8.0,Windows 10,1.7,79333.3872,1080,1920,2.6,Intel,SSD,256,Intel,0
+955,Gaming,17.3,16.0,Windows 10,4.36,168045.12,2160,3840,2.8,Intel,Both,1536,Intel,1
+956,2 in 1 Convertible,13.3,8.0,Windows 10,1.24,101178.72,1080,1920,1.2,Intel,SSD,256,Intel,0
+957,2 in 1 Convertible,11.6,4.0,Windows 10,1.45,41292.0,768,1366,1.1,Intel,SSD,256,Intel,0
+958,Ultrabook,13.3,8.0,Windows 10,1.3,67559.04,1800,3200,2.5,Intel,SSD,256,Intel,0
+959,2 in 1 Convertible,11.6,4.0,Chrome OS,1.25,20725.92,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+960,Notebook,13.3,8.0,Windows 10,1.2,81784.8,1080,1920,2.4,Intel,SSD,256,Intel,0
+961,Ultrabook,12.5,8.0,Windows 10,1.36,93772.8,1080,1920,2.6,Intel,SSD,256,Intel,0
+962,Notebook,15.6,12.0,Windows 10,2.4,53759.52,1080,1920,2.5,Intel,Both,1152,Intel,1
+963,Ultrabook,12.5,8.0,Windows 10,1.1,95371.2,1080,1920,2.7,Intel,SSD,512,Intel,0
+964,Notebook,15.6,8.0,Windows 10,2.04,45101.52,768,1366,2.5,Intel,HDD,1024,Intel,1
+965,Notebook,15.6,4.0,Linux,2.25,24808.2336,768,1366,2.0,Intel,HDD,1024,Intel,1
+966,Notebook,15.6,4.0,Windows 10,1.9,43956.0,768,1366,2.5,Intel,HDD,500,Intel,0
+967,Notebook,15.6,4.0,Windows 10,2.04,36496.8,1080,1920,2.4,Intel,HDD,500,Intel,0
+968,Gaming,17.3,32.0,Windows 10,4.42,167778.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+969,Notebook,15.6,6.0,Windows 10,2.4,37029.6,1080,1920,2.5,Intel,SSD,256,Intel,1
+970,2 in 1 Convertible,13.3,16.0,Windows 10,1.22,101178.72,1800,3200,1.3,Intel,SSD,512,Intel,0
+971,Ultrabook,14.0,8.0,Windows 10,1.5,104587.57439999998,1440,2560,2.6,Intel,SSD,256,Intel,0
+972,Gaming,17.3,32.0,Windows 10,4.42,149184.0,1080,1920,2.6,Intel,Both,1280,Intel,1
+973,Notebook,14.0,8.0,Windows 10,1.95,62870.4,1080,1920,2.3,Intel,SSD,256,Intel,0
+974,Gaming,17.3,16.0,Windows 10,2.73,109218.672,1080,1920,2.8,Intel,Both,1280,Intel,1
+975,Notebook,15.6,8.0,Windows 10,2.04,52161.12,1080,1920,2.7,Intel,Both,1152,Intel,1
+976,Notebook,14.0,4.0,Windows 7,1.7,53386.56,768,1366,2.3,Intel,Hybrid,508,Intel,0
+977,2 in 1 Convertible,15.6,16.0,Windows 10,2.3,95850.72,2160,3840,2.7,Intel,Both,2560,Intel,1
+978,Notebook,15.6,6.0,Windows 10,2.04,30849.12,768,1366,2.7,Intel,HDD,1024,Intel,0
+979,Gaming,17.3,16.0,Windows 10,2.99,93186.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+980,2 in 1 Convertible,15.6,12.0,Windows 10,2.19,69210.72,1080,1920,2.7,Intel,SSD,512,Intel,0
+981,Notebook,13.3,4.0,Windows 7,1.2,63669.6,1080,1920,2.3,Intel,SSD,128,Intel,0
+982,Notebook,15.6,6.0,Windows 10,2.2,29250.72,1080,1920,3.6,AMD,SSD,256,AMD,1
+983,Notebook,15.6,4.0,Windows 10,2.3,34578.72,768,1366,2.3,Intel,SSD,256,Intel,0
+984,Notebook,14.0,4.0,Windows 10,1.75,48751.2,768,1366,2.3,Intel,HDD,500,Intel,0
+985,Notebook,15.6,4.0,Windows 10,2.25,31914.72,768,1366,2.5,Intel,HDD,500,Intel,1
+986,Notebook,15.6,8.0,Windows 10,2.04,42943.68,1080,1920,2.5,Intel,HDD,1024,Intel,0
+987,Gaming,15.6,8.0,Windows 10,2.5,63349.92,1080,1920,2.8,Intel,Both,1152,Intel,1
+988,Notebook,15.6,8.0,Windows 10,2.36,39906.72,768,1366,2.7,Intel,HDD,1024,Intel,1
+989,Notebook,14.0,8.0,Windows 10,1.6,59620.32,1080,1920,2.5,Intel,SSD,128,Intel,0
+990,Netbook,12.5,8.0,Windows 10,0.97,101658.24,1080,1920,1.2,Intel,SSD,512,Intel,0
+991,Notebook,15.6,4.0,Windows 10,2.1,26586.72,1080,1920,2.0,Intel,Both,1152,Intel,1
+992,Notebook,15.6,4.0,No OS,1.9,14418.6336,768,1366,1.1,Intel,SSD,128,Intel,0
+993,Notebook,15.6,8.0,Windows 10,2.3,71874.72,1080,1920,2.3,Intel,SSD,256,Intel,0
+994,2 in 1 Convertible,13.3,8.0,Windows 10,1.68,47365.92,1080,1920,2.5,Intel,SSD,256,Intel,0
+995,Notebook,13.3,8.0,Windows 10,1.4,61272.0,1800,3200,2.5,Intel,SSD,256,Intel,0
+996,Ultrabook,13.3,8.0,Windows 10,1.11,71874.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+997,Notebook,15.6,4.0,Windows 10,2.4,20246.4,768,1366,1.1,Intel,HDD,500,Intel,0
+998,Gaming,15.6,16.0,Windows 10,2.5,95850.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+999,Ultrabook,14.0,8.0,Windows 10,1.48,111301.92,1080,1920,2.7,Intel,SSD,512,Intel,0
+1000,Gaming,15.6,8.0,Windows 10,2.7,67132.8,1080,1920,2.8,Intel,Both,1152,Intel,1
+1001,Notebook,13.3,8.0,Windows 10,1.34,63349.92,1080,1920,2.5,Intel,SSD,256,Intel,0
+1002,Notebook,15.6,4.0,Windows 10,2.18,29144.16,768,1366,2.4,Intel,SSD,128,Intel,0
+1003,Notebook,14.0,4.0,Windows 10,1.64,41505.12,768,1366,2.5,Intel,HDD,500,Intel,0
+1004,Notebook,13.3,4.0,Windows 10,1.2,63669.6,1080,1920,2.3,Intel,SSD,128,Intel,0
+1005,Notebook,14.0,4.0,Windows 10,1.48,58607.46719999999,768,1366,2.4,Intel,SSD,256,Intel,0
+1006,Notebook,14.0,4.0,Windows 10,1.95,64202.4,1080,1920,2.5,Intel,SSD,256,Intel,0
+1007,Ultrabook,14.0,8.0,Windows 7,1.43,77202.72,1080,1920,2.6,Intel,SSD,256,Intel,0
+1008,Notebook,14.0,8.0,Windows 10,1.64,55904.5728,1080,1920,2.5,Intel,SSD,256,Intel,1
+1009,Notebook,14.0,4.0,Windows 10,1.64,36443.52,768,1366,2.4,Intel,HDD,500,Intel,0
+1010,Gaming,15.6,8.0,Windows 10,2.65,50562.72,1080,1920,2.5,Intel,Hybrid,1024,Intel,1
+1011,Ultrabook,12.5,4.0,Windows 10,1.26,81997.92,1080,1920,2.5,Intel,HDD,500,Intel,0
+1012,Notebook,14.0,4.0,Windows 10,1.48,84715.2,1080,1920,2.5,Intel,SSD,256,Intel,0
+1013,Ultrabook,14.0,8.0,Windows 10,1.54,100550.5488,1080,1920,2.5,Intel,SSD,256,Intel,0
+1014,Notebook,13.3,4.0,Windows 10,1.49,42624.0,768,1366,2.4,Intel,HDD,500,Intel,0
+1015,Notebook,13.3,8.0,Windows 10,1.5,64468.8,768,1366,2.3,Intel,SSD,256,Intel,0
+1016,Notebook,15.6,4.0,Windows 10,2.04,41025.0672,768,1366,2.4,Intel,SSD,256,Intel,0
+1017,Notebook,17.3,16.0,Windows 7,2.4,158135.04,2160,3840,2.7,Intel,SSD,512,Intel,1
+1018,Notebook,14.0,8.0,Windows 10,1.47,79387.2,1080,1920,2.3,Intel,SSD,256,Intel,0
+1019,Notebook,14.0,8.0,Windows 10,1.43,118761.12,1080,1920,2.5,Intel,SSD,256,Intel,0
+1020,2 in 1 Convertible,15.6,4.0,Windows 10,2.08,42410.3472,1080,1920,2.3,Intel,HDD,1024,Intel,0
+1021,Ultrabook,13.3,8.0,Windows 10,1.2,84715.2,1080,1920,2.3,Intel,SSD,256,Intel,0
+1022,Notebook,13.3,8.0,Windows 10,1.11,61218.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+1023,Notebook,14.0,8.0,Windows 10,1.64,63159.7104,1080,1920,2.7,Intel,SSD,256,Intel,1
+1024,Notebook,15.6,8.0,Windows 10,2.09,55754.3232,1080,1920,2.4,Intel,HDD,500,Intel,0
+1025,Ultrabook,12.5,4.0,Windows 10,1.26,83063.52,768,1366,2.5,Intel,SSD,256,Intel,0
+1026,Notebook,14.0,4.0,Windows 10,2.31,63349.92,768,1366,2.5,Intel,HDD,500,Intel,0
+1027,Notebook,14.0,4.0,Windows 10,1.95,56476.8,768,1366,2.5,Intel,HDD,500,Intel,0
+1028,Ultrabook,13.3,8.0,Windows 10,1.29,86526.72,1800,3200,2.5,Intel,SSD,256,Intel,0
+1029,Notebook,17.3,8.0,Windows 10,2.63,57542.4,1080,1920,2.5,Intel,SSD,256,Intel,1
+1030,Notebook,14.0,4.0,Windows 10,1.64,51841.44,768,1366,2.5,Intel,SSD,256,Intel,0
+1031,Notebook,15.6,6.0,Windows 10,2.1,21791.52,768,1366,3.0,AMD,HDD,1024,AMD,1
+1032,Gaming,17.3,8.0,Windows 10,2.7,63499.10399999999,1080,1920,2.8,Intel,Both,1152,Intel,1
+1033,Notebook,14.0,8.0,Windows 7,1.95,63669.6,1080,1920,2.3,Intel,SSD,256,Intel,0
+1034,Notebook,15.6,8.0,Windows 10,1.84,65480.5872,1080,1920,2.5,Intel,SSD,256,Intel,0
+1035,Ultrabook,12.5,8.0,Windows 10,1.26,71874.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+1036,Notebook,15.6,4.0,Windows 10,2.04,39533.76,768,1366,2.5,Intel,HDD,500,Intel,0
+1037,Ultrabook,14.0,8.0,Windows 10,1.47,91908.0,1080,1920,2.6,Intel,SSD,256,Intel,0
+1038,Notebook,15.6,8.0,Windows 7,2.09,56633.976,1080,1920,2.4,Intel,SSD,256,Intel,0
+1039,Notebook,14.0,8.0,Windows 10,1.64,53839.9728,1080,1920,2.5,Intel,SSD,256,Intel,0
+1040,2 in 1 Convertible,15.6,4.0,Windows 10,1.8,45128.16,1080,1920,2.5,Intel,SSD,256,Intel,0
+1041,Notebook,14.0,2.0,Windows 10,1.45,11231.424,768,1366,1.44,Intel,Flash Storage,32,Intel,0
+1042,Notebook,15.6,16.0,Windows 10,2.4,75924.0,1080,1920,2.5,Intel,SSD,256,Intel,1
+1043,Notebook,15.6,8.0,Windows 10,2.3,55922.688,1080,1920,2.3,Intel,SSD,256,Intel,0
+1044,Notebook,14.0,4.0,Windows 10,1.54,53280.0,1080,1920,2.3,Intel,HDD,500,Intel,0
+1045,Notebook,15.6,8.0,Windows 10,1.84,112065.9552,1080,1920,2.4,Intel,Both,756,Intel,0
+1046,Notebook,14.0,8.0,Windows 7,1.43,78268.31999999999,1080,1920,2.3,Intel,SSD,256,Intel,0
+1047,Gaming,17.3,16.0,Windows 10,3.78,82351.6992,1080,1920,2.7,Intel,Both,1280,Intel,1
+1048,Gaming,17.3,16.0,Windows 10,4.6,122010.66719999998,1080,1920,2.6,Intel,Both,1152,Intel,1
+1049,Netbook,11.6,4.0,Chrome OS,1.2,15339.311999999998,768,1366,1.6,Intel,Flash Storage,16,Intel,0
+1050,Notebook,14.0,16.0,Windows 7,1.1,139593.6,1440,2560,2.6,Intel,SSD,256,Intel,0
+1051,Notebook,15.6,8.0,Windows 10,1.91,52161.12,1080,1920,2.7,Intel,HDD,1024,Intel,1
+1052,2 in 1 Convertible,15.6,8.0,Windows 10,2.3,58288.32,1080,1920,2.7,Intel,SSD,256,Intel,0
+1053,Notebook,15.6,4.0,Windows 10,2.04,52161.12,768,1366,2.5,Intel,SSD,256,Intel,0
+1054,Ultrabook,13.3,16.0,Windows 10,1.2,120093.12,1800,3200,2.7,Intel,SSD,1024,Intel,0
+1055,Notebook,15.6,4.0,Windows 10,2.31,37570.392,768,1366,2.3,Intel,HDD,500,Intel,0
+1056,Notebook,15.6,4.0,No OS,1.96,26586.72,768,1366,2.5,Intel,HDD,500,Intel,0
+1057,Notebook,15.6,8.0,Windows 10,2.4,23922.72,768,1366,2.2,AMD,HDD,1024,AMD,1
+1058,2 in 1 Convertible,13.3,12.0,Windows 10,1.6,69210.72,1080,1920,2.7,Intel,SSD,256,Intel,0
+1059,Gaming,15.6,16.0,Windows 10,2.94,96916.32,1080,1920,2.6,Intel,Both,1280,Intel,1
+1060,Notebook,15.6,8.0,Windows 10,2.04,57009.6,1080,1920,2.7,Intel,SSD,256,Intel,0
+1061,Gaming,17.3,16.0,No OS,4.0,53173.44,1080,1920,2.6,Intel,HDD,1024,Intel,1
+1062,Notebook,15.6,4.0,Windows 10,2.25,29783.52,1080,1920,2.5,Intel,HDD,1024,Intel,0
+1063,Notebook,15.6,16.0,Windows 10,2.32,52746.6672,1080,1920,2.7,Intel,HDD,2048,Intel,1
+1064,Gaming,15.6,16.0,Windows 10,1.8,102777.12,1080,1920,2.6,Intel,Both,1280,Intel,1
+1065,Ultrabook,13.3,8.0,Windows 10,1.29,77682.23999999999,1080,1920,2.7,Intel,SSD,256,Intel,0
+1066,Gaming,17.3,64.0,Windows 10,3.58,211788.0,1080,1920,2.7,Intel,SSD,1024,Intel,1
+1067,2 in 1 Convertible,13.3,8.0,Windows 10,1.62,42517.9728,1080,1920,2.5,Intel,SSD,256,Intel,0
+1068,Gaming,15.6,16.0,Windows 10,3.21,70809.12,2160,3840,2.6,Intel,Both,1280,Intel,1
+1069,Ultrabook,12.0,8.0,Mac OS X,0.92,69264.0,1440,2304,1.1,Intel,Flash Storage,256,Intel,0
+1070,Notebook,15.6,4.0,Windows 10,2.06,25679.8944,768,1366,2.3,Intel,HDD,500,Intel,0
+1071,Notebook,15.6,4.0,Windows 10,2.31,63882.72,768,1366,2.3,Intel,HDD,500,Intel,0
+1072,Ultrabook,12.5,8.0,Windows 7,1.26,63882.72,1080,1920,2.3,Intel,SSD,256,Intel,0
+1073,Notebook,13.3,8.0,Windows 10,1.49,58075.2,1080,1920,2.7,Intel,SSD,256,Intel,0
+1074,Ultrabook,12.5,8.0,Windows 10,1.3,91294.7472,1080,1920,2.5,Intel,SSD,256,Intel,0
+1075,Notebook,17.3,8.0,Windows 10,3.0,35111.52,900,1600,2.3,Intel,HDD,1024,Intel,1
+1076,Notebook,15.6,4.0,Windows 10,2.3,52054.56,1080,1920,2.3,Intel,HDD,1024,Intel,1
+1077,Gaming,17.3,16.0,Windows 10,3.78,133146.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+1078,Notebook,15.6,4.0,Windows 10,2.1,28771.2,768,1366,2.3,Intel,HDD,500,Intel,0
+1079,Notebook,15.6,4.0,Windows 7,2.31,50083.2,1080,1920,2.3,Intel,HDD,500,Intel,0
+1080,Ultrabook,12.5,8.0,Windows 10,0.99,74538.72,1440,2560,1.2,Intel,SSD,512,Intel,0
+1081,Gaming,17.3,32.0,Windows 10,4.6,172627.19999999998,1080,1920,2.7,Intel,Both,1536,Intel,1
+1082,2 in 1 Convertible,10.1,4.0,Windows 10,0.69,34433.2656,1200,1920,1.44,Intel,Flash Storage,64,Intel,0
+1083,Ultrabook,13.3,16.0,Windows 10,1.3,109170.72,2160,3840,2.7,Intel,SSD,512,Intel,0
+1084,Notebook,15.6,8.0,Windows 10,2.18,39960.0,1080,1920,2.5,Intel,SSD,256,Intel,0
+1085,Notebook,14.0,4.0,Windows 7,1.54,54931.14719999999,1080,1920,2.3,Intel,HDD,500,Intel,0
+1086,Workstation,15.6,8.0,Windows 7,1.9,79653.59999999999,1080,1920,2.5,Intel,SSD,256,Intel,1
+1087,Notebook,14.0,8.0,Windows 7,1.7,63882.72,1080,1920,2.3,Intel,SSD,180,Intel,0
+1088,Notebook,13.3,4.0,Chrome OS,1.29,32767.2,1800,3200,1.5,Intel,Flash Storage,32,Intel,0
+1089,Notebook,15.6,4.0,Windows 10,2.4,20619.36,768,1366,2.2,AMD,HDD,500,AMD,1
+1090,Notebook,15.6,4.0,Linux,2.2,20965.1472,768,1366,1.6,Intel,HDD,500,Intel,0
+1091,Notebook,15.6,4.0,No OS,1.86,18434.3472,768,1366,2.0,Intel,HDD,1024,Intel,0
+1092,Gaming,17.3,8.0,Windows 10,2.7,85194.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+1093,Ultrabook,13.3,4.0,Windows 10,1.4,43601.688,1080,1920,1.6,Intel,SSD,256,Intel,1
+1094,Netbook,12.5,4.0,Windows 7,2.4,85194.72,768,1366,2.3,Intel,SSD,128,Intel,0
+1095,Notebook,15.6,8.0,Windows 10,2.4,42570.72,1080,1920,2.5,Intel,Both,1280,Intel,1
+1096,Notebook,15.6,8.0,Windows 10,2.36,34035.264,1080,1920,2.5,Intel,HDD,1024,Intel,1
+1097,Gaming,17.3,8.0,Windows 10,2.6,85194.72,1080,1920,2.6,Intel,SSD,256,Intel,1
+1098,Notebook,15.6,4.0,Windows 10,1.96,26640.0,768,1366,1.6,Intel,HDD,1024,Intel,0
+1099,Gaming,17.3,16.0,Windows 10,4.3,122490.72,1080,1920,2.6,Intel,Both,1152,Intel,1
+1100,Ultrabook,12.5,4.0,Windows 7,1.5,60480.792,768,1366,2.3,Intel,HDD,500,Intel,0
+1101,Ultrabook,12.5,4.0,Windows 7,1.5,62176.1616,768,1366,2.3,Intel,SSD,128,Intel,0
+1102,Notebook,15.6,4.0,Chrome OS,2.2,11135.52,768,1366,1.5,Intel,SSD,16,Intel,0
+1103,Workstation,17.3,8.0,Windows 7,3.0,154458.72,1080,1920,2.6,Intel,HDD,1024,Intel,1
+1104,Gaming,15.6,16.0,Windows 10,2.4,63882.72,1080,1920,2.8,Intel,SSD,512,Intel,1
+1105,Ultrabook,12.5,8.0,Windows 7,1.5,75289.968,768,1366,2.3,Intel,SSD,256,Intel,0
+1106,Gaming,17.3,8.0,Windows 10,2.9,80516.20319999999,1080,1920,2.6,Intel,Both,1152,Intel,1
+1107,2 in 1 Convertible,15.6,4.0,Windows 10,2.1,46193.76,1080,1920,2.3,Intel,SSD,256,Intel,0
+1108,Notebook,15.6,4.0,Windows 10,2.1,21205.44,1080,1920,2.5,AMD,HDD,1024,AMD,1
+1109,Gaming,15.6,16.0,Windows 10,2.59,71341.92,1080,1920,2.6,Intel,Both,1152,Intel,1
+1110,Notebook,13.3,8.0,Windows 10,1.16,90522.72,1800,3200,1.1,Intel,SSD,256,Intel,0
+1111,Notebook,15.6,4.0,Windows 7,2.24,40980.312,768,1366,2.3,Intel,HDD,500,Intel,1
+1112,Notebook,15.6,4.0,Windows 10,2.1,22857.12,768,1366,2.0,Intel,SSD,128,Intel,0
+1113,Ultrabook,13.3,8.0,Windows 10,1.16,104908.32,1080,1920,2.5,Intel,SSD,512,Intel,0
+1114,2 in 1 Convertible,10.1,4.0,Android,0.69,29250.72,1200,1920,1.44,Intel,Flash Storage,64,Intel,0
+1115,Ultrabook,13.3,8.0,Windows 10,1.23,73473.12,1080,1920,2.4,Intel,SSD,256,Intel,0
+1116,Gaming,17.3,16.0,Windows 10,4.6,146519.46719999998,1080,1920,2.7,Intel,Both,1280,Intel,1
+1117,Ultrabook,12.5,8.0,Windows 10,1.25,54825.12,2160,3840,2.5,Intel,SSD,256,Intel,0
+1118,Ultrabook,13.3,16.0,Windows 10,1.05,118601.28,1080,1920,2.7,Intel,SSD,512,Intel,0
+1119,Gaming,17.3,8.0,Windows 10,3.52,69929.4672,1080,1920,2.6,Intel,Both,1152,Intel,1
+1120,Notebook,13.3,4.0,Windows 10,1.35,10442.88,1080,1920,1.44,Intel,Flash Storage,32,Intel,0
+1121,Notebook,13.3,8.0,Windows 10,1.16,90043.2,1080,1920,2.3,Intel,SSD,256,Intel,0
+1122,Notebook,14.0,8.0,Windows 7,1.43,80612.64,1080,1920,2.3,Intel,SSD,256,Intel,0
+1123,Notebook,15.6,4.0,Linux,2.09,27899.0064,768,1366,2.3,Intel,HDD,500,Intel,0
+1124,Notebook,15.6,4.0,Windows 10,2.0,23176.8,768,1366,2.4,Intel,HDD,1024,Intel,0
+1125,2 in 1 Convertible,14.0,8.0,Windows 10,1.8,88924.31999999999,1080,1920,2.5,Intel,SSD,256,Intel,0
+1126,2 in 1 Convertible,10.1,4.0,Windows 10,0.69,25521.12,1200,1920,1.44,Intel,Flash Storage,64,Intel,0
+1127,Ultrabook,12.5,8.0,Windows 7,1.26,100965.6,768,1366,2.4,Intel,SSD,256,Intel,0
+1128,Gaming,15.6,8.0,No OS,2.4,52693.92,1080,1920,2.5,Intel,Both,1152,Intel,1
+1129,Gaming,17.3,8.0,Windows 10,3.35,60153.12,1080,1920,2.3,Intel,Both,1152,Intel,1
+1130,Notebook,15.6,8.0,Windows 10,2.04,33513.119999999995,768,1366,2.7,Intel,HDD,2048,Intel,0
+1131,2 in 1 Convertible,14.0,8.0,Windows 7,1.8,109244.2464,1080,1920,2.6,Intel,SSD,512,Intel,1
+1132,Notebook,14.0,4.0,Windows 10,1.5,14811.84,768,1366,1.1,Intel,Flash Storage,32,Intel,0
+1133,Ultrabook,15.6,8.0,Windows 10,1.84,40066.56,1080,1920,2.7,Intel,SSD,256,Intel,0
+1134,Notebook,15.6,4.0,Windows 10,2.23,32820.48,1080,1920,2.5,Intel,HDD,1024,Intel,1
+1135,Notebook,15.6,16.0,Windows 10,2.5,58554.72,1080,1920,2.5,Intel,Hybrid,1024,Intel,1
+1136,Workstation,17.3,8.0,Windows 7,3.0,210424.032,1080,1920,2.6,Intel,SSD,256,Intel,1
+1137,Notebook,15.6,8.0,Windows 10,2.5,41771.52,768,1366,2.5,Intel,HDD,1024,Intel,1
+1138,Gaming,17.3,16.0,Windows 10,3.78,127818.72,1080,1920,2.7,Intel,Both,1280,Intel,1
+1139,Ultrabook,15.6,8.0,Windows 7,1.88,115709.2416,1080,1920,2.5,Intel,SSD,256,Intel,0
+1140,2 in 1 Convertible,14.0,16.0,Windows 10,2.8,130003.2,1440,2560,2.6,Intel,SSD,512,Intel,0
+1141,Gaming,15.6,8.0,Windows 10,2.4,60888.384,1080,1920,2.8,Intel,Both,1152,Intel,1
+1142,2 in 1 Convertible,13.3,8.0,Windows 10,1.48,86793.12,1080,1920,2.4,Intel,SSD,256,Intel,0
+1143,Workstation,15.6,8.0,Windows 7,2.59,118761.12,1080,1920,2.6,Intel,SSD,256,Intel,1
+1144,2 in 1 Convertible,13.3,8.0,Windows 10,1.48,95850.72,1440,2560,2.6,Intel,SSD,256,Intel,0
+1145,Workstation,15.6,8.0,Windows 7,2.0,101178.72,1080,1920,2.6,Intel,SSD,256,Intel,1
+1146,Ultrabook,12.5,8.0,Windows 7,1.26,122381.49599999998,1080,1920,2.5,Intel,SSD,256,Intel,0
+1147,Notebook,15.6,8.0,Windows 10,2.18,53807.472,1080,1920,2.7,Intel,SSD,256,Intel,1
+1148,Notebook,15.6,8.0,Windows 7,1.88,84129.12,1080,1920,2.3,Intel,SSD,256,Intel,0
+1149,2 in 1 Convertible,14.0,8.0,Windows 10,1.27,124621.92,1440,2560,2.5,Intel,SSD,256,Intel,0
+1150,Notebook,15.6,4.0,No OS,1.9,18061.92,768,1366,2.0,Intel,HDD,1024,Intel,0
+1151,Notebook,15.6,4.0,Windows 10,1.86,15824.16,768,1366,1.8,AMD,HDD,500,AMD,1
+1152,Notebook,15.6,8.0,No OS,2.32,31914.72,1080,1920,2.3,Intel,HDD,1024,Intel,1
+1153,Gaming,15.6,8.0,Windows 10,2.62,63882.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+1154,Notebook,15.6,8.0,Windows 10,2.04,119916.2304,2160,3840,2.3,Intel,SSD,256,Intel,1
+1155,Notebook,15.6,4.0,Windows 10,1.91,25515.2592,1080,1920,2.5,AMD,SSD,256,AMD,1
+1156,Gaming,17.3,16.0,Windows 10,2.7,79536.38399999999,1080,1920,2.8,Intel,Both,1280,Intel,1
+1157,Ultrabook,14.0,12.0,Windows 7,1.4,122490.72,1080,1920,2.6,Intel,SSD,512,Intel,0
+1158,Notebook,15.6,8.0,Windows 10,2.5,42010.7472,1080,1920,2.3,Intel,Hybrid,1024,Intel,1
+1159,2 in 1 Convertible,13.3,8.0,Windows 10,1.48,108744.48,1440,2560,2.6,Intel,SSD,512,Intel,0
+1160,Ultrabook,14.0,8.0,Windows 7,1.7,79866.72,1080,1920,2.6,Intel,SSD,256,Intel,0
+1161,Gaming,14.0,16.0,Windows 10,1.7,94252.32,1080,1920,2.6,Intel,Both,1280,Intel,1
+1162,Gaming,15.6,8.0,Windows 10,2.62,47898.72,1080,1920,2.8,Intel,HDD,1024,Intel,1
+1163,Notebook,15.6,8.0,Windows 10,2.2,24455.52,768,1366,2.0,Intel,HDD,1024,Intel,0
+1164,Notebook,15.6,4.0,No OS,2.1,25414.0272,768,1366,2.3,Intel,HDD,500,Intel,0
+1165,Gaming,15.6,8.0,Windows 10,2.62,79813.44,2160,3840,2.8,Intel,Both,1152,Intel,1
+1166,Notebook,15.6,8.0,Windows 10,1.95,74059.2,1080,1920,2.5,Intel,SSD,256,Intel,0
+1167,Notebook,15.6,4.0,Windows 10,2.2,24935.04,1080,1920,2.0,Intel,HDD,1024,Intel,1
+1168,Notebook,14.0,2.0,Windows 10,1.44,13266.72,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+1169,Gaming,15.6,8.0,Windows 10,2.2,44701.92,1080,1920,2.7,Intel,HDD,1024,Intel,1
+1170,Notebook,15.6,8.0,Windows 10,1.96,36177.12,1080,1920,2.5,Intel,SSD,256,Intel,0
+1171,Notebook,15.6,16.0,Windows 10,2.1,61751.52,1080,1920,1.8,Intel,SSD,512,Intel,0
+1172,Notebook,15.6,4.0,Windows 10,2.2,19660.32,768,1366,1.6,Intel,HDD,500,Intel,0
+1173,Notebook,15.6,4.0,No OS,2.1,21205.44,768,1366,2.3,Intel,HDD,500,Intel,0
+1174,Notebook,15.6,8.0,No OS,2.2,37775.52,1080,1920,2.7,Intel,HDD,1024,Intel,1
+1175,Notebook,14.0,4.0,Windows 10,2.0,40972.32,1080,1920,2.4,Intel,SSD,256,Intel,0
+1176,Notebook,15.6,4.0,Windows 7,2.32,43956.0,1080,1920,2.5,Intel,Hybrid,1024,Intel,0
+1177,Gaming,15.6,16.0,Windows 10,3.31,69530.4,1080,1920,2.6,Intel,SSD,512,Intel,1
+1178,Gaming,15.6,16.0,Windows 10,1.91,114731.5536,1080,1920,2.6,Intel,Both,1152,Intel,1
+1179,Notebook,15.6,4.0,Windows 10,2.07,34632.0,768,1366,2.3,Intel,HDD,500,Intel,0
+1180,2 in 1 Convertible,14.0,8.0,Windows 10,1.36,87219.36,1440,2560,2.3,Intel,SSD,256,Intel,0
+1181,Ultrabook,15.6,6.0,Windows 10,1.54,44275.68,1080,1920,2.7,Intel,SSD,256,Intel,1
+1182,Notebook,15.6,8.0,Linux,1.98,47686.1328,1080,1920,2.7,Intel,SSD,256,Intel,1
+1183,Notebook,15.6,4.0,Windows 10,2.1,17742.239999999998,768,1366,2.0,Intel,HDD,500,Intel,0
+1184,Notebook,15.6,6.0,Windows 10,2.18,42570.72,1080,1920,2.6,Intel,HDD,1024,Intel,1
+1185,Gaming,15.6,8.0,Windows 10,2.591,48431.52,1080,1920,2.6,Intel,Both,1280,Intel,1
+1186,2 in 1 Convertible,15.6,16.0,Windows 10,2.09,62817.12,1080,1920,2.7,Intel,SSD,512,Intel,0
+1187,Notebook,15.6,4.0,Windows 10,2.23,36816.48,1080,1920,2.5,Intel,SSD,256,Intel,1
+1188,Ultrabook,13.3,8.0,Linux,1.23,58554.72,1800,3200,2.4,Intel,SSD,256,Intel,0
+1189,Gaming,17.3,16.0,Windows 10,4.2,138474.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+1190,Gaming,15.6,8.0,Windows 10,2.4,43636.32,1080,1920,2.5,Intel,HDD,1024,Intel,1
+1191,2 in 1 Convertible,12.3,4.0,Chrome OS,1.15,35111.52,1600,2400,2.0,Other,Flash Storage,32,Other,0
+1192,Notebook,15.6,4.0,Windows 10,1.86,25840.8,768,1366,2.5,Intel,HDD,500,Intel,0
+1193,Ultrabook,12.0,8.0,Mac OS X,0.92,61964.64,1440,2304,1.1,Intel,Flash Storage,256,Intel,0
+1194,2 in 1 Convertible,13.3,8.0,Windows 10,1.6,63882.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+1195,Notebook,15.6,12.0,Windows 10,2.21,70702.56,1080,1920,2.8,Intel,Both,1152,Intel,1
+1196,Notebook,15.6,4.0,No OS,1.9,19607.04,768,1366,2.0,Intel,HDD,1024,Intel,1
+1197,Gaming,17.3,16.0,Windows 10,4.3,114552.0,1080,1920,2.6,Intel,Both,1536,Intel,1
+1198,Notebook,15.6,4.0,Linux,2.1,14492.16,768,1366,2.0,Intel,HDD,1024,Intel,0
+1199,Gaming,17.3,16.0,Windows 10,2.43,109165.392,1080,1920,2.8,Intel,Both,1280,Intel,1
+1200,Notebook,15.6,4.0,Windows 10,2.3,26586.72,768,1366,2.0,Intel,SSD,128,Intel,1
+1201,Notebook,15.6,8.0,No OS,2.2,33513.119999999995,768,1366,2.5,Intel,HDD,500,Intel,1
+1202,2 in 1 Convertible,15.6,16.0,Windows 10,2.0,68464.8,1080,1920,1.8,Intel,SSD,512,Intel,0
+1203,Ultrabook,13.3,16.0,Windows 10,1.2,142790.4,1800,3200,2.7,Intel,SSD,512,Intel,0
+1204,Gaming,15.6,8.0,Windows 10,2.2,62284.32,1080,1920,2.6,Intel,HDD,1024,Intel,1
+1205,Notebook,15.6,8.0,Windows 10,2.36,47365.92,1080,1920,2.5,Intel,SSD,256,Intel,1
+1206,Notebook,15.6,8.0,Windows 10,1.91,30849.12,768,1366,2.5,Intel,SSD,256,Intel,0
+1207,Notebook,15.6,4.0,Windows 10,2.2,15930.72,768,1366,2.2,AMD,HDD,500,AMD,1
+1208,Notebook,17.3,8.0,Windows 10,3.3,33513.119999999995,900,1600,2.0,Intel,HDD,1024,Intel,1
+1209,Gaming,15.6,16.0,Windows 10,2.2,130482.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+1210,Ultrabook,12.0,8.0,Mac OS X,0.92,68145.12,1440,2304,1.2,Intel,Flash Storage,512,Intel,0
+1211,Notebook,15.6,16.0,Windows 10,2.2,93186.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+1212,Gaming,17.3,16.0,Windows 10,2.43,103842.1872,1080,1920,2.6,Intel,Both,1280,Intel,1
+1213,2 in 1 Convertible,15.6,8.0,Windows 10,2.191,53226.72,1080,1920,2.5,Intel,SSD,256,Intel,0
+1214,Gaming,17.3,16.0,Windows 10,2.9,103842.72,1080,1920,2.8,Intel,Both,1280,Intel,1
+1215,Netbook,11.6,2.0,Chrome OS,1.3,9270.72,768,1366,1.5,Intel,SSD,32,Intel,0
+1216,Notebook,17.3,4.0,Windows 10,3.3,31861.44,900,1600,2.0,Intel,HDD,1024,Intel,1
+1217,Notebook,17.3,8.0,No OS,2.8,28717.92,900,1600,2.5,Intel,HDD,1024,Intel,0
+1218,Gaming,15.6,8.0,Windows 10,2.6,67772.16,1080,1920,2.6,Intel,Both,1152,Intel,1
+1219,2 in 1 Convertible,14.0,8.0,Windows 10,1.2,61218.72,1080,1920,1.3,Intel,SSD,256,Intel,0
+1220,Notebook,15.6,8.0,Windows 10,2.3,81465.12,1080,1920,2.6,Intel,SSD,256,Intel,0
+1221,Gaming,15.6,8.0,Windows 10,2.2,78647.1408,1080,1920,2.6,Intel,Both,1152,Intel,1
+1222,Notebook,15.6,6.0,Windows 10,2.1,28185.12,1080,1920,2.7,AMD,HDD,1024,AMD,1
+1223,Ultrabook,12.5,8.0,Windows 7,1.26,91288.3536,1080,1920,2.4,Intel,SSD,256,Intel,0
+1224,2 in 1 Convertible,15.0,4.0,Windows 10,2.08,27119.52,1080,1920,2.4,Intel,HDD,500,Intel,0
+1225,Notebook,15.6,4.0,Windows 10,2.65,16463.52,768,1366,1.6,Intel,HDD,1024,Intel,0
+1226,Ultrabook,13.3,8.0,Windows 10,1.29,78694.56,1800,3200,2.7,Intel,SSD,256,Intel,0
+1227,Notebook,15.6,4.0,Linux,2.18,27804.7008,768,1366,2.5,Intel,HDD,1024,Intel,0
+1228,Gaming,15.6,16.0,Windows 10,2.6,54825.12,1080,1920,2.6,Intel,Both,1152,Intel,1
+1229,Gaming,15.6,8.0,Windows 10,2.2,61218.72,1080,1920,2.8,Intel,Both,1152,Intel,1
+1230,Netbook,12.5,16.0,Windows 10,1.3,87912.0,1080,1920,2.5,Intel,SSD,512,Intel,0
+1231,Gaming,14.0,16.0,Windows 10,1.95,186426.72,1080,1920,2.8,Intel,SSD,1024,Intel,1
+1232,Notebook,15.6,8.0,Windows 10,2.3,24988.8528,768,1366,2.4,Intel,HDD,1024,Intel,0
+1233,Gaming,17.3,16.0,Windows 10,2.7,85141.44,1080,1920,2.8,Intel,Both,1280,Intel,1
+1234,Ultrabook,11.6,4.0,Mac OS X,1.08,51095.52,768,1366,1.6,Intel,Flash Storage,256,Intel,0
+1235,Notebook,15.6,4.0,Windows 10,2.1,25467.84,1080,1920,2.0,Intel,HDD,1024,Intel,0
+1236,Ultrabook,14.0,8.0,Windows 7,1.54,117119.5632,1440,2560,2.5,Intel,SSD,256,Intel,0
+1237,Notebook,15.6,4.0,Windows 7,2.24,39267.36,768,1366,2.3,Intel,HDD,500,Intel,0
+1238,Gaming,15.6,8.0,Windows 10,2.3,62284.32,1080,1920,2.6,Intel,Both,1152,Intel,1
+1239,Notebook,13.3,16.0,Windows 10,1.4,79866.72,1080,1920,2.7,Intel,SSD,512,Intel,0
+1240,Notebook,15.6,6.0,Windows 10,2.2,31838.5296,1080,1920,3.6,AMD,SSD,256,AMD,1
+1241,Ultrabook,13.3,8.0,Windows 10,1.45,68198.4,1080,1920,2.5,Intel,SSD,256,Intel,0
+1242,Notebook,15.6,4.0,Linux,2.4,19276.704,768,1366,2.0,Intel,HDD,500,Intel,0
+1243,2 in 1 Convertible,17.3,16.0,Windows 10,2.77,95850.72,1080,1920,2.7,Intel,SSD,512,Intel,1
+1244,Notebook,14.0,4.0,Windows 7,1.54,58607.46719999999,1080,1920,2.3,Intel,SSD,256,Intel,0
+1245,Gaming,15.6,16.0,Windows 10,2.5,85248.0,1080,1920,2.8,Intel,Both,1280,Intel,1
+1246,Notebook,14.0,4.0,Windows 10,1.6,46620.0,768,1366,2.5,Intel,HDD,500,Intel,0
+1247,Gaming,15.6,16.0,Windows 10,2.34,123876.0,1080,1920,2.6,Intel,Both,1280,Intel,1
+1248,Notebook,15.6,8.0,No OS,2.3,30529.44,1080,1920,2.5,Intel,SSD,256,Intel,0
+1249,2 in 1 Convertible,13.3,8.0,Windows 10,1.24,96596.64,1800,3200,1.2,Intel,SSD,256,Intel,0
+1250,Notebook,15.6,4.0,Linux,2.2,17262.72,768,1366,1.6,Intel,HDD,500,Intel,0
+1251,Notebook,15.6,4.0,Windows 10,1.86,21258.72,768,1366,2.5,AMD,HDD,500,AMD,1
+1252,Notebook,15.6,6.0,Windows 10,2.4,30316.32,1080,1920,2.3,Intel,SSD,128,Intel,1
+1253,Notebook,14.0,8.0,Windows 10,1.9,57116.16,1080,1920,2.3,Intel,SSD,256,Intel,0
+1254,Notebook,15.6,4.0,Windows 10,2.2,23655.7872,768,1366,1.6,Intel,HDD,500,Intel,0
+1255,Notebook,15.6,4.0,Windows 10,2.0,18061.92,768,1366,1.1,Intel,HDD,1024,Intel,0
+1256,Gaming,17.3,16.0,Windows 10,4.0,101232.0,1080,1920,2.6,Intel,Both,1152,Intel,1
+1257,Notebook,15.6,4.0,Windows 10,2.29,26107.2,768,1366,2.0,Intel,HDD,500,Intel,0
+1258,Notebook,15.6,8.0,Windows 7,2.32,47685.6,1080,1920,2.5,Intel,Hybrid,1024,Intel,1
+1259,Gaming,15.6,8.0,Windows 10,2.4,65481.12,1080,1920,2.6,Intel,Both,1152,Intel,1
+1260,2 in 1 Convertible,14.0,4.0,Windows 10,1.8,44382.7728,1080,1920,2.3,Intel,SSD,128,Intel,0
+1261,Ultrabook,13.3,8.0,Windows 10,1.2,38841.12,1080,1920,0.9,Intel,SSD,512,Intel,0
+1262,Notebook,15.6,6.0,Windows 10,2.3,24455.52,768,1366,2.4,Intel,HDD,1024,Intel,0
+1263,Notebook,15.6,4.0,Linux,2.4,15397.92,768,1366,1.6,Intel,HDD,500,Intel,0
+1264,Notebook,15.6,2.0,Windows 10,2.2,20193.12,768,1366,1.6,Intel,HDD,500,Intel,0
+1265,Notebook,15.6,8.0,Windows 10,2.6,47898.72,1080,1920,2.6,Intel,HDD,1024,Intel,1
+1266,Notebook,15.6,6.0,Windows 10,2.04,29303.4672,1080,1920,2.9,AMD,Hybrid,1024,AMD,1
+1267,Notebook,15.6,8.0,Linux,2.3,42943.1472,768,1366,2.7,Intel,HDD,1024,Intel,1
+1268,Netbook,11.6,2.0,Windows 10,1.17,11135.52,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+1269,Notebook,15.6,4.0,Windows 10,2.2,38378.6496,768,1366,2.5,Intel,HDD,500,Intel,1
+1270,2 in 1 Convertible,14.0,4.0,Windows 10,1.8,33992.64,1080,1920,2.5,Intel,SSD,128,Intel,0
+1271,2 in 1 Convertible,13.3,16.0,Windows 10,1.3,79866.72,1800,3200,2.5,Intel,SSD,512,Intel,0
+1272,Notebook,14.0,2.0,Windows 10,1.5,12201.12,768,1366,1.6,Intel,Flash Storage,64,Intel,0
+1273,Notebook,15.6,6.0,Windows 10,2.19,40705.92,768,1366,2.5,Intel,HDD,1024,Intel,1
+1274,Notebook,15.6,4.0,Windows 10,2.2,19660.32,768,1366,1.6,Intel,HDD,500,Intel,0
+1275,Ultrabook,13.3,8.0,Windows 10,1.2,38841.12,1080,1920,0.9,Intel,SSD,512,Intel,0
+1276,Notebook,15.6,6.0,Windows 10,2.3,24455.52,768,1366,2.4,Intel,HDD,1024,Intel,0
+1277,Notebook,15.6,4.0,Linux,2.4,15397.92,768,1366,1.6,Intel,HDD,500,Intel,0
+1278,Notebook,15.6,2.0,Windows 10,2.2,20193.12,768,1366,1.6,Intel,HDD,500,Intel,0
+1279,Notebook,15.6,8.0,Windows 10,2.6,47898.72,1080,1920,2.6,Intel,HDD,1024,Intel,1
+1280,Notebook,15.6,6.0,Windows 10,2.04,29303.4672,1080,1920,2.9,AMD,Hybrid,1024,AMD,1
+1281,Notebook,15.6,8.0,Linux,2.3,42943.1472,768,1366,2.7,Intel,HDD,1024,Intel,1
+1282,Netbook,11.6,2.0,Windows 10,1.17,11135.52,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+1283,Notebook,15.6,4.0,Windows 10,2.2,38378.6496,768,1366,2.5,Intel,HDD,500,Intel,1
+1284,2 in 1 Convertible,14.0,4.0,Windows 10,1.8,33992.64,1080,1920,2.5,Intel,SSD,128,Intel,0
+1285,2 in 1 Convertible,13.3,16.0,Windows 10,1.3,79866.72,1800,3200,2.5,Intel,SSD,512,Intel,0
+1286,Notebook,14.0,2.0,Windows 10,1.5,12201.12,768,1366,1.6,Intel,Flash Storage,64,Intel,0
+1287,Notebook,15.6,6.0,Windows 10,2.19,40705.92,768,1366,2.5,Intel,HDD,1024,Intel,1
+1288,Notebook,15.6,4.0,Windows 10,2.2,19660.32,768,1366,1.6,Intel,HDD,500,Intel,0
+1289,Ultrabook,13.3,8.0,Windows 10,1.2,38841.12,1080,1920,0.9,Intel,SSD,512,Intel,0
+1290,Notebook,15.6,6.0,Windows 10,2.3,24455.52,768,1366,2.4,Intel,HDD,1024,Intel,0
+1291,Notebook,15.6,4.0,Linux,2.4,15397.92,768,1366,1.6,Intel,HDD,500,Intel,0
+1292,Notebook,15.6,2.0,Windows 10,2.2,20193.12,768,1366,1.6,Intel,HDD,500,Intel,0
+1293,Notebook,15.6,8.0,Windows 10,2.6,47898.72,1080,1920,2.6,Intel,HDD,1024,Intel,1
+1294,Notebook,15.6,6.0,Windows 10,2.04,29303.4672,1080,1920,2.9,AMD,Hybrid,1024,AMD,1
+1295,Notebook,15.6,8.0,Linux,2.3,42943.1472,768,1366,2.7,Intel,HDD,1024,Intel,1
+1296,Netbook,11.6,2.0,Windows 10,1.17,11135.52,768,1366,1.6,Intel,Flash Storage,32,Intel,0
+1297,Notebook,15.6,4.0,Windows 10,2.2,38378.6496,768,1366,2.5,Intel,HDD,500,Intel,1
+1298,2 in 1 Convertible,14.0,4.0,Windows 10,1.8,33992.64,1080,1920,2.5,Intel,SSD,128,Intel,0
+1299,2 in 1 Convertible,13.3,16.0,Windows 10,1.3,79866.72,1800,3200,2.5,Intel,SSD,512,Intel,0
+1300,Notebook,14.0,2.0,Windows 10,1.5,12201.12,768,1366,1.6,Intel,Flash Storage,64,Intel,0
+1301,Notebook,15.6,6.0,Windows 10,2.19,40705.92,768,1366,2.5,Intel,HDD,1024,Intel,1
+1302,Notebook,15.6,4.0,Windows 10,2.2,19660.32,768,1366,1.6,Intel,HDD,500,Intel,0
